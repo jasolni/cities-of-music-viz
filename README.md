@@ -31,10 +31,21 @@ Everything lives in one notebook, [`cities_of_music_analysis.ipynb`](cities_of_m
 | 6 | Positioning map of exports vs. imports (log-log) and diverging trade-balance ranking | Scatter + bar |
 | 6a | Same ranking on a **symmetric log (SYMLOG) scale** so extreme values do not hide the middle | Bar |
 
-Static previews of the non-map charts (the maps need an internet connection to geocode the cities, so they are only produced when you run the notebook):
+GitHub does not display interactive Plotly output, so the notebook is stored without outputs and these static previews are included. Run the notebook to get the interactive versions (hover, zoom, animation).
+
+### Maps
+
+![Cities of Music map](images/05_map_basic.png)
+*Countries with at least one City of Music, with the cities as red dots.*
+
+![Corrected map with GeoJSON](images/06_map_corrected.png)
+*Second version, built from a GeoJSON of country borders and ISO codes.*
+
+### Other charts
 
 ![Global shares](images/01_global_shares.png)
 ![Positioning scatter](images/02_positioning_scatter.png)
+![Trade balance ranking](images/03_balance_ranking.png)
 ![SYMLOG ranking](images/04_symlog_ranking.png)
 
 ## Data
@@ -44,6 +55,7 @@ All files are in [`data/`](data/).
 | File | Content | Source |
 |------|---------|--------|
 | `cities_of_music_2006-2023.csv` | 75 cities in 51 countries with their designation year (`City, Country, Year`) | [UNESCO Creative Cities Network - Cities of Music](https://citiesofmusic.net/music-cities/) |
+| `city_coordinates.csv` | Approximate latitude/longitude of the 75 cities, used by the maps | Compiled for this project (city centres, rounded) |
 | `goods_exps_*`, `goods_imps_*` | Total world and country goods exports/imports | [UNCTADstat data centre](https://unctadstat.unctad.org/datacentre/) |
 | `tot_exp_*`, `tot_imp_*` | Creative goods exports/imports by economy | [UNCTAD creative economy statistics](https://unctad.org/creative-economy-programme/statistics) |
 | `mus_exp_*`, `mus_imp_*` | Music exports/imports by economy. In the UNCTAD classification this is the product group *"Music, performing and visual arts"* | same |
@@ -68,13 +80,13 @@ pip install -r requirements.txt
 jupyter lab cities_of_music_analysis.ipynb
 ```
 
-Run all cells in order. **An internet connection is required** for two steps: city coordinates are looked up with the free OpenStreetMap *Nominatim* service through `geopy` (limited to one request per second, so geocoding takes a couple of minutes and is repeated in each map cell), and the corrected map downloads a public GeoJSON of country borders from `raw.githubusercontent.com`. Outputs are cleared in the repository, so every chart is generated when you run it.
+Run all cells in order. An internet connection is needed because the corrected map downloads a public GeoJSON of country borders from `raw.githubusercontent.com`, and Plotly fetches its base map files when drawing maps. City coordinates come from `data/city_coordinates.csv`; the free OpenStreetMap *Nominatim* service (through `geopy`, one request per second) is only queried for cities missing from that file. Outputs are cleared in the repository, so every chart is generated when you run it.
 
 ## Method notes
 
 - **Cleaning:** names are stripped, normalized and aligned across the UNESCO and UNCTAD files (`country_fixes`), and the function `clean_df` applies this to every trade table.
 - **Designation events:** designations are grouped per country and year, so a country with two titles in one year gets one combined label.
-- **Choropleth fix:** Plotly's built-in country matching does not recognise some territories, so the second map uses ISO-3 codes with an explicit GeoJSON and masks countries without titles in grey.
+- **Choropleth fix:** Plotly's built-in country matching does not recognise some territories, so the second map uses ISO-3 codes with an explicit GeoJSON and masks countries without titles in grey. Cabo Verde and Mauritius are not present in that public GeoJSON, so they appear only as city points.
 - **SYMLOG scale:** `sign(x) * log10(1 + |x|)`, with tick labels rewritten as real dollar amounts (-$1,000M ... $1,000M).
 - **Zeros on log axes:** log axes cannot show zero, so cities with zero exports are absent from the log-log scatter (but present in the rankings).
 
@@ -82,7 +94,7 @@ Run all cells in order. **An internet connection is required** for two steps: ci
 
 ```
 cities_of_music_analysis.ipynb   the analysis (English, outputs cleared)
-data/                            input CSV files
-images/                          static previews used in this README
+data/                            input CSV files and city coordinates
+images/                          static previews of the charts and maps used in this README
 requirements.txt
 ```
