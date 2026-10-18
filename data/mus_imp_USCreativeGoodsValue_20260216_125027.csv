@@ -1,0 +1,4731 @@
+Economy_Label,Year,US_at_current_prices_in_millions_Value
+"World",2002,13490
+"World",2003,12629
+"World",2004,15300
+"World",2005,17030
+"World",2006,19809
+"World",2007,30159
+"World",2008,29991
+"World",2009,22737
+"World",2010,25501
+"World",2011,29412
+"World",2012,29386
+"World",2013,29178
+"World",2014,30078
+"World",2015,33568
+"World",2016,29128
+"World",2017,29906
+"World",2018,35105
+"World",2019,37109
+"World",2020,26226
+"World",2021,35894
+"World",2022,33172
+"World",2023,31939
+"Asia",2002,1398
+"Asia",2003,1444
+"Asia",2004,1718
+"Asia",2005,1907
+"Asia",2006,2243
+"Asia",2007,4488
+"Asia",2008,5527
+"Asia",2009,5404
+"Asia",2010,4660
+"Asia",2011,5757
+"Asia",2012,5149
+"Asia",2013,5566
+"Asia",2014,5972
+"Asia",2015,6894
+"Asia",2016,7055
+"Asia",2017,7537
+"Asia",2018,9550
+"Asia",2019,11951
+"Asia",2020,7439
+"Asia",2021,12893
+"Asia",2022,11625
+"Asia",2023,11135
+"Oceania",2002,144
+"Oceania",2003,171
+"Oceania",2004,224
+"Oceania",2005,272
+"Oceania",2006,290
+"Oceania",2007,400
+"Oceania",2008,396
+"Oceania",2009,289
+"Oceania",2010,324
+"Oceania",2011,373
+"Oceania",2012,353
+"Oceania",2013,377
+"Oceania",2014,374
+"Oceania",2015,370
+"Oceania",2016,374
+"Oceania",2017,394
+"Oceania",2018,395
+"Oceania",2019,416
+"Oceania",2020,375
+"Oceania",2021,467
+"Oceania",2022,519
+"Oceania",2023,497
+"Individual economies",2002,
+"Individual economies",2003,
+"Individual economies",2004,
+"Individual economies",2005,
+"Individual economies",2006,
+"Individual economies",2007,
+"Individual economies",2008,
+"Individual economies",2009,
+"Individual economies",2010,
+"Individual economies",2011,
+"Individual economies",2012,
+"Individual economies",2013,
+"Individual economies",2014,
+"Individual economies",2015,
+"Individual economies",2016,
+"Individual economies",2017,
+"Individual economies",2018,
+"Individual economies",2019,
+"Individual economies",2020,
+"Individual economies",2021,
+"Individual economies",2022,
+"Individual economies",2023,
+"Afghanistan",2008,409
+"Afghanistan",2017,0
+"Afghanistan",2018,0
+"Afghanistan",2019,0
+"Albania",2002,1
+"Albania",2003,1
+"Albania",2004,1
+"Albania",2005,1
+"Albania",2006,1
+"Albania",2007,2
+"Albania",2008,1
+"Albania",2009,7
+"Albania",2010,20
+"Albania",2011,20
+"Albania",2012,18
+"Albania",2013,19
+"Albania",2014,5
+"Albania",2015,8
+"Albania",2016,8
+"Albania",2017,2
+"Albania",2018,3
+"Albania",2019,6
+"Albania",2020,6
+"Albania",2021,8
+"Albania",2022,1
+"Albania",2023,19
+"Algeria",2002,1
+"Algeria",2003,1
+"Algeria",2004,1
+"Algeria",2005,2
+"Algeria",2006,1
+"Algeria",2007,69
+"Algeria",2008,81
+"Algeria",2009,64
+"Algeria",2010,30
+"Algeria",2011,39
+"Algeria",2012,59
+"Algeria",2013,110
+"Algeria",2014,135
+"Algeria",2015,85
+"Algeria",2016,56
+"Algeria",2017,23
+"Andorra",2002,19
+"Andorra",2003,13
+"Andorra",2004,17
+"Andorra",2006,12
+"Andorra",2007,21
+"Andorra",2008,12
+"Andorra",2009,6
+"Andorra",2010,4
+"Andorra",2011,5
+"Andorra",2012,3
+"Andorra",2013,6
+"Andorra",2014,4
+"Andorra",2015,4
+"Andorra",2016,4
+"Andorra",2017,6
+"Andorra",2018,10
+"Andorra",2019,8
+"Andorra",2020,254
+"Andorra",2021,5
+"Andorra",2022,5
+"Andorra",2023,7
+"Angola",2004,1
+"Angola",2005,2
+"Angola",2006,2
+"Angola",2007,2
+"Angola",2008,4
+"Angola",2009,7
+"Angola",2010,6
+"Angola",2011,8
+"Angola",2012,14
+"Angola",2013,11
+"Angola",2014,12
+"Angola",2015,6
+"Angola",2016,6
+"Angola",2017,5
+"Angola",2018,7
+"Angola",2019,5
+"Angola",2020,3
+"Angola",2021,16
+"Angola",2022,11
+"Angola",2023,7
+"Anguilla",2002,0
+"Anguilla",2003,0
+"Anguilla",2004,0
+"Anguilla",2006,1
+"Anguilla",2007,0
+"Anguilla",2008,0
+"Antigua and Barbuda",2005,0
+"Antigua and Barbuda",2006,0
+"Antigua and Barbuda",2007,0
+"Antigua and Barbuda",2009,0
+"Antigua and Barbuda",2010,0
+"Antigua and Barbuda",2011,0
+"Antigua and Barbuda",2012,0
+"Antigua and Barbuda",2013,0
+"Antigua and Barbuda",2014,0
+"Antigua and Barbuda",2015,0
+"Antigua and Barbuda",2016,0
+"Antigua and Barbuda",2017,1
+"Antigua and Barbuda",2018,0
+"Antigua and Barbuda",2019,1
+"Antigua and Barbuda",2020,0
+"Antigua and Barbuda",2021,2
+"Antigua and Barbuda",2022,1
+"Antigua and Barbuda",2023,1
+"Argentina",2002,3
+"Argentina",2003,5
+"Argentina",2004,11
+"Argentina",2005,32
+"Argentina",2006,27
+"Argentina",2007,32
+"Argentina",2008,48
+"Argentina",2009,31
+"Argentina",2010,38
+"Argentina",2011,51
+"Argentina",2012,43
+"Argentina",2013,44
+"Argentina",2014,35
+"Argentina",2015,37
+"Argentina",2016,38
+"Argentina",2017,37
+"Argentina",2018,32
+"Argentina",2019,17
+"Argentina",2020,18
+"Argentina",2021,23
+"Argentina",2022,28
+"Argentina",2023,22
+"Armenia",2002,1
+"Armenia",2003,1
+"Armenia",2004,1
+"Armenia",2005,4
+"Armenia",2006,4
+"Armenia",2007,7
+"Armenia",2008,2
+"Armenia",2009,2
+"Armenia",2010,3
+"Armenia",2011,2
+"Armenia",2012,3
+"Armenia",2013,1
+"Armenia",2014,2
+"Armenia",2015,1
+"Armenia",2016,1
+"Armenia",2017,1
+"Armenia",2018,1
+"Armenia",2019,1
+"Armenia",2020,1
+"Armenia",2021,1
+"Armenia",2022,2
+"Armenia",2023,3
+"Aruba",2005,9
+"Aruba",2009,2
+"Aruba",2010,1
+"Aruba",2011,1
+"Aruba",2012,1
+"Aruba",2013,2
+"Aruba",2014,2
+"Aruba",2015,2
+"Aruba",2016,2
+"Aruba",2017,1
+"Aruba",2018,1
+"Aruba",2019,1
+"Aruba",2020,1
+"Aruba",2021,1
+"Aruba",2022,1
+"Aruba",2023,1
+"Australia",2002,119
+"Australia",2003,141
+"Australia",2004,191
+"Australia",2005,236
+"Australia",2006,253
+"Australia",2007,342
+"Australia",2008,333
+"Australia",2009,241
+"Australia",2010,274
+"Australia",2011,312
+"Australia",2012,291
+"Australia",2013,319
+"Australia",2014,318
+"Australia",2015,307
+"Australia",2016,317
+"Australia",2017,331
+"Australia",2018,329
+"Australia",2019,350
+"Australia",2020,317
+"Australia",2021,391
+"Australia",2022,447
+"Australia",2023,366
+"Austria",2002,103
+"Austria",2003,124
+"Austria",2004,141
+"Austria",2005,173
+"Austria",2006,183
+"Austria",2007,717
+"Austria",2008,336
+"Austria",2009,304
+"Austria",2010,385
+"Austria",2011,310
+"Austria",2012,296
+"Austria",2013,332
+"Austria",2014,341
+"Austria",2015,307
+"Austria",2016,372
+"Austria",2017,348
+"Austria",2018,382
+"Austria",2019,407
+"Austria",2020,337
+"Austria",2021,504
+"Austria",2022,277
+"Austria",2023,387
+"Azerbaijan",2002,0
+"Azerbaijan",2003,0
+"Azerbaijan",2004,0
+"Azerbaijan",2005,0
+"Azerbaijan",2006,1
+"Azerbaijan",2007,4
+"Azerbaijan",2008,4
+"Azerbaijan",2009,11
+"Azerbaijan",2010,1
+"Azerbaijan",2011,6
+"Azerbaijan",2012,3
+"Azerbaijan",2013,2
+"Azerbaijan",2014,2
+"Azerbaijan",2015,3
+"Azerbaijan",2016,1
+"Azerbaijan",2017,4
+"Azerbaijan",2018,2
+"Azerbaijan",2019,2
+"Azerbaijan",2020,3
+"Azerbaijan",2021,2
+"Azerbaijan",2022,3
+"Azerbaijan",2023,5
+"Bahamas",2002,2
+"Bahamas",2003,3
+"Bahamas",2004,4
+"Bahamas",2005,3
+"Bahamas",2006,3
+"Bahamas",2007,5
+"Bahamas",2008,4
+"Bahamas",2009,4
+"Bahamas",2010,5
+"Bahamas",2011,4
+"Bahamas",2012,5
+"Bahamas",2013,4
+"Bahamas",2014,5
+"Bahamas",2015,4
+"Bahamas",2016,5
+"Bahamas",2017,7
+"Bahamas",2018,24
+"Bahamas",2019,33
+"Bahamas",2020,4
+"Bahamas",2021,15
+"Bahamas",2022,10
+"Bahamas",2023,4
+"Bahrain",2002,4
+"Bahrain",2003,4
+"Bahrain",2004,3
+"Bahrain",2005,7
+"Bahrain",2006,2
+"Bahrain",2007,3
+"Bahrain",2008,6
+"Bahrain",2009,3
+"Bahrain",2010,6
+"Bahrain",2011,7
+"Bahrain",2012,6
+"Bahrain",2013,5
+"Bahrain",2014,6
+"Bahrain",2015,5
+"Bahrain",2016,5
+"Bahrain",2017,6
+"Bahrain",2018,5
+"Bahrain",2019,4
+"Bahrain",2020,3
+"Bahrain",2021,5
+"Bahrain",2022,3
+"Bahrain",2023,6
+"Bangladesh",2002,0
+"Bangladesh",2003,1
+"Bangladesh",2004,0
+"Bangladesh",2005,1
+"Bangladesh",2006,1
+"Bangladesh",2007,1
+"Bangladesh",2008,3
+"Bangladesh",2009,1
+"Bangladesh",2010,2
+"Bangladesh",2011,2
+"Bangladesh",2012,4
+"Bangladesh",2013,2
+"Bangladesh",2015,1
+"Barbados",2002,1
+"Barbados",2003,2
+"Barbados",2004,1
+"Barbados",2005,2
+"Barbados",2006,2
+"Barbados",2007,2
+"Barbados",2008,2
+"Barbados",2009,1
+"Barbados",2010,2
+"Barbados",2011,1
+"Barbados",2012,1
+"Barbados",2013,2
+"Barbados",2014,2
+"Barbados",2015,1
+"Barbados",2016,1
+"Barbados",2017,2
+"Barbados",2018,1
+"Barbados",2019,1
+"Barbados",2020,1
+"Barbados",2021,1
+"Barbados",2022,2
+"Barbados",2023,2
+"Belarus",2002,2
+"Belarus",2003,14
+"Belarus",2004,2
+"Belarus",2005,4
+"Belarus",2006,6
+"Belarus",2007,12
+"Belarus",2008,19
+"Belarus",2009,7
+"Belarus",2010,6
+"Belarus",2011,8
+"Belarus",2012,14
+"Belarus",2013,15
+"Belarus",2014,10
+"Belarus",2015,11
+"Belarus",2016,6
+"Belarus",2017,4
+"Belarus",2018,6
+"Belarus",2019,9
+"Belarus",2020,11
+"Belarus",2021,10
+"Belgium",2002,77
+"Belgium",2003,159
+"Belgium",2004,271
+"Belgium",2005,266
+"Belgium",2006,342
+"Belgium",2007,488
+"Belgium",2008,688
+"Belgium",2009,480
+"Belgium",2010,286
+"Belgium",2011,353
+"Belgium",2012,228
+"Belgium",2013,240
+"Belgium",2014,234
+"Belgium",2015,192
+"Belgium",2016,164
+"Belgium",2017,199
+"Belgium",2018,190
+"Belgium",2019,210
+"Belgium",2020,237
+"Belgium",2021,327
+"Belgium",2022,376
+"Belgium",2023,401
+"Belize",2002,0
+"Belize",2003,0
+"Belize",2004,0
+"Belize",2005,0
+"Belize",2006,0
+"Belize",2007,0
+"Belize",2008,0
+"Belize",2009,0
+"Belize",2010,0
+"Belize",2011,0
+"Belize",2012,0
+"Belize",2013,0
+"Belize",2014,0
+"Belize",2015,1
+"Belize",2016,1
+"Belize",2017,1
+"Belize",2018,0
+"Belize",2019,1
+"Belize",2020,0
+"Belize",2021,1
+"Belize",2022,1
+"Belize",2023,1
+"Benin",2002,0
+"Benin",2003,0
+"Benin",2004,0
+"Benin",2005,0
+"Benin",2006,0
+"Benin",2007,0
+"Benin",2008,0
+"Benin",2009,0
+"Benin",2010,1
+"Benin",2011,2
+"Benin",2012,1
+"Benin",2013,6
+"Benin",2014,1
+"Benin",2015,1
+"Benin",2016,1
+"Benin",2017,0
+"Benin",2018,0
+"Benin",2019,0
+"Benin",2020,0
+"Benin",2021,0
+"Benin",2022,0
+"Benin",2023,0
+"Bermuda",2010,2
+"Bermuda",2011,4
+"Bermuda",2012,3
+"Bermuda",2013,4
+"Bermuda",2014,4
+"Bermuda",2015,8
+"Bermuda",2016,6
+"Bermuda",2017,3
+"Bermuda",2018,5
+"Bermuda",2019,26
+"Bermuda",2020,4
+"Bermuda",2021,4
+"Bermuda",2022,3
+"Bhutan",2005,0
+"Bhutan",2006,0
+"Bhutan",2007,0
+"Bhutan",2008,0
+"Bhutan",2009,1
+"Bhutan",2010,1
+"Bhutan",2011,0
+"Bhutan",2012,0
+"Bolivia (Plurinational State of)",2002,1
+"Bolivia (Plurinational State of)",2003,1
+"Bolivia (Plurinational State of)",2004,1
+"Bolivia (Plurinational State of)",2005,1
+"Bolivia (Plurinational State of)",2006,2
+"Bolivia (Plurinational State of)",2007,2
+"Bolivia (Plurinational State of)",2008,2
+"Bolivia (Plurinational State of)",2009,2
+"Bolivia (Plurinational State of)",2010,4
+"Bolivia (Plurinational State of)",2011,4
+"Bolivia (Plurinational State of)",2012,5
+"Bolivia (Plurinational State of)",2013,5
+"Bolivia (Plurinational State of)",2014,8
+"Bolivia (Plurinational State of)",2015,4
+"Bolivia (Plurinational State of)",2016,4
+"Bolivia (Plurinational State of)",2017,5
+"Bolivia (Plurinational State of)",2018,6
+"Bolivia (Plurinational State of)",2019,6
+"Bolivia (Plurinational State of)",2020,3
+"Bolivia (Plurinational State of)",2021,4
+"Bolivia (Plurinational State of)",2022,6
+"Bolivia (Plurinational State of)",2023,4
+"Bosnia and Herzegovina",2003,3
+"Bosnia and Herzegovina",2004,5
+"Bosnia and Herzegovina",2005,3
+"Bosnia and Herzegovina",2006,3
+"Bosnia and Herzegovina",2007,4
+"Bosnia and Herzegovina",2008,8
+"Bosnia and Herzegovina",2009,3
+"Bosnia and Herzegovina",2010,4
+"Bosnia and Herzegovina",2011,4
+"Bosnia and Herzegovina",2012,4
+"Bosnia and Herzegovina",2013,3
+"Bosnia and Herzegovina",2014,3
+"Bosnia and Herzegovina",2015,3
+"Bosnia and Herzegovina",2016,2
+"Bosnia and Herzegovina",2017,2
+"Bosnia and Herzegovina",2018,3
+"Bosnia and Herzegovina",2019,3
+"Bosnia and Herzegovina",2020,2
+"Bosnia and Herzegovina",2021,3
+"Bosnia and Herzegovina",2022,8
+"Bosnia and Herzegovina",2023,5
+"Botswana",2002,1
+"Botswana",2003,2
+"Botswana",2004,1
+"Botswana",2005,1
+"Botswana",2006,1
+"Botswana",2007,1
+"Botswana",2008,3
+"Botswana",2009,2
+"Botswana",2010,2
+"Botswana",2011,2
+"Botswana",2012,2
+"Botswana",2013,2
+"Botswana",2014,3
+"Botswana",2015,2
+"Botswana",2016,2
+"Botswana",2017,2
+"Botswana",2018,3
+"Botswana",2019,4
+"Botswana",2020,2
+"Botswana",2021,3
+"Botswana",2022,3
+"Botswana",2023,2
+"Brazil",2002,34
+"Brazil",2003,20
+"Brazil",2004,29
+"Brazil",2005,41
+"Brazil",2006,55
+"Brazil",2007,76
+"Brazil",2008,111
+"Brazil",2009,97
+"Brazil",2010,146
+"Brazil",2011,189
+"Brazil",2012,203
+"Brazil",2013,188
+"Brazil",2014,200
+"Brazil",2015,137
+"Brazil",2016,77
+"Brazil",2017,88
+"Brazil",2018,114
+"Brazil",2019,106
+"Brazil",2020,72
+"Brazil",2021,88
+"Brazil",2022,100
+"Brazil",2023,107
+"Brunei Darussalam",2002,1
+"Brunei Darussalam",2003,1
+"Brunei Darussalam",2004,8
+"Brunei Darussalam",2006,2
+"Brunei Darussalam",2007,17
+"Brunei Darussalam",2008,3
+"Brunei Darussalam",2009,5
+"Brunei Darussalam",2010,30
+"Brunei Darussalam",2011,2
+"Brunei Darussalam",2012,22
+"Brunei Darussalam",2013,1
+"Brunei Darussalam",2014,1
+"Brunei Darussalam",2015,2
+"Brunei Darussalam",2016,1
+"Brunei Darussalam",2017,1
+"Brunei Darussalam",2018,1
+"Brunei Darussalam",2019,2
+"Brunei Darussalam",2020,2
+"Brunei Darussalam",2021,4
+"Brunei Darussalam",2022,2
+"Brunei Darussalam",2023,2
+"Bulgaria",2002,1
+"Bulgaria",2003,2
+"Bulgaria",2004,2
+"Bulgaria",2005,3
+"Bulgaria",2006,4
+"Bulgaria",2007,11
+"Bulgaria",2008,13
+"Bulgaria",2009,6
+"Bulgaria",2010,9
+"Bulgaria",2011,9
+"Bulgaria",2012,10
+"Bulgaria",2013,11
+"Bulgaria",2014,11
+"Bulgaria",2015,11
+"Bulgaria",2016,9
+"Bulgaria",2017,8
+"Bulgaria",2018,8
+"Bulgaria",2019,7
+"Bulgaria",2020,5
+"Bulgaria",2021,8
+"Bulgaria",2022,10
+"Bulgaria",2023,11
+"Burkina Faso",2002,0
+"Burkina Faso",2003,0
+"Burkina Faso",2004,1
+"Burkina Faso",2005,0
+"Burkina Faso",2006,0
+"Burkina Faso",2007,1
+"Burkina Faso",2008,1
+"Burkina Faso",2009,3
+"Burkina Faso",2010,1
+"Burkina Faso",2011,1
+"Burkina Faso",2012,1
+"Burkina Faso",2013,1
+"Burkina Faso",2014,1
+"Burkina Faso",2015,2
+"Burkina Faso",2016,0
+"Burkina Faso",2017,1
+"Burkina Faso",2018,1
+"Burkina Faso",2019,2
+"Burkina Faso",2020,9
+"Burkina Faso",2021,4
+"Burkina Faso",2022,2
+"Burkina Faso",2023,8
+"Burundi",2002,0
+"Burundi",2003,0
+"Burundi",2004,0
+"Burundi",2005,0
+"Burundi",2006,0
+"Burundi",2007,0
+"Burundi",2008,0
+"Burundi",2009,2
+"Burundi",2010,0
+"Burundi",2011,0
+"Burundi",2012,1
+"Burundi",2013,1
+"Burundi",2014,0
+"Burundi",2015,1
+"Burundi",2016,5
+"Burundi",2017,1
+"Burundi",2018,1
+"Burundi",2019,0
+"Burundi",2020,1
+"Burundi",2021,0
+"Burundi",2022,1
+"Cabo Verde",2002,0
+"Cabo Verde",2003,0
+"Cabo Verde",2004,0
+"Cabo Verde",2005,0
+"Cabo Verde",2006,0
+"Cabo Verde",2007,0
+"Cabo Verde",2008,1
+"Cabo Verde",2009,0
+"Cabo Verde",2010,0
+"Cabo Verde",2011,0
+"Cabo Verde",2012,0
+"Cabo Verde",2013,0
+"Cabo Verde",2014,0
+"Cabo Verde",2015,0
+"Cabo Verde",2016,0
+"Cabo Verde",2017,0
+"Cabo Verde",2018,0
+"Cabo Verde",2019,0
+"Cabo Verde",2020,0
+"Cabo Verde",2021,0
+"Cabo Verde",2022,0
+"Cabo Verde",2023,0
+"Cambodia",2002,1
+"Cambodia",2003,1
+"Cambodia",2004,0
+"Cambodia",2005,1
+"Cambodia",2006,0
+"Cambodia",2007,3
+"Cambodia",2008,1
+"Cambodia",2009,1
+"Cambodia",2010,2
+"Cambodia",2011,2
+"Cambodia",2012,1
+"Cambodia",2013,2
+"Cambodia",2014,6
+"Cambodia",2015,39
+"Cambodia",2016,1
+"Cambodia",2017,1
+"Cambodia",2018,2
+"Cambodia",2019,3
+"Cambodia",2020,5
+"Cambodia",2021,2
+"Cambodia",2022,6
+"Cambodia",2023,2
+"Cameroon",2002,0
+"Cameroon",2003,0
+"Cameroon",2004,0
+"Cameroon",2005,1
+"Cameroon",2006,0
+"Cameroon",2007,0
+"Cameroon",2008,0
+"Cameroon",2009,0
+"Cameroon",2010,0
+"Cameroon",2011,1
+"Cameroon",2012,1
+"Cameroon",2013,6
+"Cameroon",2014,8
+"Cameroon",2015,6
+"Cameroon",2016,5
+"Cameroon",2017,3
+"Cameroon",2018,16
+"Cameroon",2019,14
+"Cameroon",2020,5
+"Cameroon",2021,5
+"Canada",2002,333
+"Canada",2003,371
+"Canada",2004,390
+"Canada",2005,528
+"Canada",2006,498
+"Canada",2007,638
+"Canada",2008,667
+"Canada",2009,533
+"Canada",2010,575
+"Canada",2011,580
+"Canada",2012,661
+"Canada",2013,657
+"Canada",2014,642
+"Canada",2015,701
+"Canada",2016,585
+"Canada",2017,545
+"Canada",2018,619
+"Canada",2019,660
+"Canada",2020,575
+"Canada",2021,777
+"Canada",2022,898
+"Canada",2023,810
+"Cayman Islands",2020,2
+"Cayman Islands",2021,2
+"Central African Republic",2002,0
+"Central African Republic",2003,0
+"Central African Republic",2004,0
+"Central African Republic",2005,0
+"Central African Republic",2007,0
+"Central African Republic",2008,0
+"Central African Republic",2009,0
+"Central African Republic",2010,0
+"Central African Republic",2011,0
+"Central African Republic",2012,0
+"Central African Republic",2013,0
+"Central African Republic",2014,0
+"Central African Republic",2015,0
+"Central African Republic",2016,0
+"Central African Republic",2017,1
+"Central African Republic",2018,0
+"Central African Republic",2019,0
+"Central African Republic",2020,2
+"Central African Republic",2021,1
+"Central African Republic",2022,3
+"Central African Republic",2023,1
+"Chile",2002,13
+"Chile",2003,18
+"Chile",2004,19
+"Chile",2005,23
+"Chile",2006,32
+"Chile",2007,55
+"Chile",2008,69
+"Chile",2009,39
+"Chile",2010,62
+"Chile",2011,83
+"Chile",2012,68
+"Chile",2013,45
+"Chile",2014,50
+"Chile",2015,55
+"Chile",2016,67
+"Chile",2017,70
+"Chile",2018,79
+"Chile",2019,59
+"Chile",2020,47
+"Chile",2021,86
+"Chile",2022,70
+"Chile",2023,60
+"China",2002,112
+"China",2003,107
+"China",2004,136
+"China",2005,133
+"China",2006,154
+"China",2007,234
+"China",2008,241
+"China",2009,231
+"China",2010,280
+"China",2011,325
+"China",2012,366
+"China",2013,1026
+"China",2014,755
+"China",2015,551
+"China",2016,496
+"China",2017,472
+"China",2018,627
+"China",2019,1161
+"China",2020,1024
+"China",2021,2714
+"China",2022,1843
+"China",2023,1750
+"China, Hong Kong SAR",2002,187
+"China, Hong Kong SAR",2003,203
+"China, Hong Kong SAR",2004,226
+"China, Hong Kong SAR",2005,254
+"China, Hong Kong SAR",2006,319
+"China, Hong Kong SAR",2007,457
+"China, Hong Kong SAR",2008,589
+"China, Hong Kong SAR",2009,422
+"China, Hong Kong SAR",2010,514
+"China, Hong Kong SAR",2011,612
+"China, Hong Kong SAR",2012,710
+"China, Hong Kong SAR",2013,878
+"China, Hong Kong SAR",2014,1198
+"China, Hong Kong SAR",2015,2098
+"China, Hong Kong SAR",2016,1364
+"China, Hong Kong SAR",2017,1135
+"China, Hong Kong SAR",2018,2840
+"China, Hong Kong SAR",2019,4249
+"China, Hong Kong SAR",2020,2597
+"China, Hong Kong SAR",2021,4663
+"China, Hong Kong SAR",2022,4595
+"China, Hong Kong SAR",2023,4748
+"China, Macao SAR",2002,1
+"China, Macao SAR",2003,2
+"China, Macao SAR",2004,2
+"China, Macao SAR",2005,2
+"China, Macao SAR",2006,2
+"China, Macao SAR",2007,12
+"China, Macao SAR",2008,5
+"China, Macao SAR",2009,3
+"China, Macao SAR",2010,4
+"China, Macao SAR",2011,5
+"China, Macao SAR",2012,4
+"China, Macao SAR",2013,4
+"China, Macao SAR",2014,4
+"China, Macao SAR",2015,14
+"China, Macao SAR",2016,11
+"China, Macao SAR",2017,3
+"China, Macao SAR",2018,4
+"China, Macao SAR",2019,17
+"China, Macao SAR",2020,19
+"China, Macao SAR",2021,28
+"China, Macao SAR",2022,19
+"China, Macao SAR",2023,22
+"China, Taiwan Province of",2002,65
+"China, Taiwan Province of",2003,65
+"China, Taiwan Province of",2004,72
+"China, Taiwan Province of",2005,68
+"China, Taiwan Province of",2006,67
+"China, Taiwan Province of",2007,77
+"China, Taiwan Province of",2008,90
+"China, Taiwan Province of",2009,137
+"China, Taiwan Province of",2010,142
+"China, Taiwan Province of",2011,127
+"China, Taiwan Province of",2012,106
+"China, Taiwan Province of",2013,120
+"China, Taiwan Province of",2014,123
+"China, Taiwan Province of",2015,127
+"China, Taiwan Province of",2016,121
+"China, Taiwan Province of",2017,105
+"China, Taiwan Province of",2018,151
+"China, Taiwan Province of",2019,181
+"China, Taiwan Province of",2020,161
+"China, Taiwan Province of",2021,187
+"China, Taiwan Province of",2022,161
+"China, Taiwan Province of",2023,107
+"Colombia",2002,7
+"Colombia",2003,6
+"Colombia",2004,7
+"Colombia",2005,9
+"Colombia",2006,10
+"Colombia",2007,25
+"Colombia",2008,29
+"Colombia",2009,23
+"Colombia",2010,29
+"Colombia",2011,31
+"Colombia",2012,31
+"Colombia",2013,28
+"Colombia",2014,56
+"Colombia",2015,27
+"Colombia",2016,22
+"Colombia",2017,20
+"Colombia",2018,48
+"Colombia",2019,23
+"Colombia",2020,16
+"Colombia",2021,19
+"Colombia",2022,37
+"Colombia",2023,20
+"Comoros",2002,0
+"Comoros",2003,0
+"Comoros",2004,0
+"Comoros",2005,0
+"Comoros",2006,0
+"Comoros",2007,0
+"Comoros",2008,0
+"Comoros",2009,0
+"Comoros",2010,0
+"Comoros",2011,0
+"Comoros",2012,0
+"Comoros",2013,0
+"Comoros",2014,0
+"Comoros",2015,0
+"Comoros",2016,0
+"Comoros",2017,0
+"Comoros",2018,0
+"Comoros",2019,0
+"Comoros",2020,0
+"Comoros",2021,0
+"Congo",2007,0
+"Congo",2008,0
+"Congo",2009,0
+"Congo",2010,0
+"Congo",2011,0
+"Congo",2012,0
+"Congo",2013,1
+"Congo",2014,1
+"Congo",2015,1
+"Congo",2016,1
+"Congo",2017,1
+"Congo",2018,0
+"Congo",2019,2
+"Congo",2020,2
+"Congo",2021,1
+"Congo",2022,5
+"Cook Islands",2005,0
+"Cook Islands",2007,0
+"Cook Islands",2009,0
+"Cook Islands",2010,0
+"Cook Islands",2011,0
+"Costa Rica",2002,4
+"Costa Rica",2003,4
+"Costa Rica",2004,4
+"Costa Rica",2005,5
+"Costa Rica",2006,6
+"Costa Rica",2007,10
+"Costa Rica",2008,13
+"Costa Rica",2009,5
+"Costa Rica",2010,11
+"Costa Rica",2011,49
+"Costa Rica",2012,14
+"Costa Rica",2013,14
+"Costa Rica",2014,11
+"Costa Rica",2015,9
+"Costa Rica",2016,11
+"Costa Rica",2017,12
+"Costa Rica",2018,16
+"Costa Rica",2019,11
+"Costa Rica",2020,6
+"Costa Rica",2021,7
+"Costa Rica",2022,12
+"Costa Rica",2023,10
+"Cote d'Ivoire",2002,0
+"Cote d'Ivoire",2003,0
+"Cote d'Ivoire",2004,0
+"Cote d'Ivoire",2005,0
+"Cote d'Ivoire",2006,0
+"Cote d'Ivoire",2007,0
+"Cote d'Ivoire",2008,6
+"Cote d'Ivoire",2009,4
+"Cote d'Ivoire",2010,3
+"Cote d'Ivoire",2011,3
+"Cote d'Ivoire",2012,3
+"Cote d'Ivoire",2013,3
+"Cote d'Ivoire",2014,3
+"Cote d'Ivoire",2015,3
+"Cote d'Ivoire",2016,3
+"Cote d'Ivoire",2017,3
+"Cote d'Ivoire",2018,3
+"Cote d'Ivoire",2019,5
+"Cote d'Ivoire",2020,17
+"Cote d'Ivoire",2021,8
+"Cote d'Ivoire",2022,5
+"Cote d'Ivoire",2023,5
+"Croatia",2002,10
+"Croatia",2003,12
+"Croatia",2004,9
+"Croatia",2005,10
+"Croatia",2006,13
+"Croatia",2007,21
+"Croatia",2008,25
+"Croatia",2009,20
+"Croatia",2010,15
+"Croatia",2011,15
+"Croatia",2012,14
+"Croatia",2013,14
+"Croatia",2014,12
+"Croatia",2015,11
+"Croatia",2016,13
+"Croatia",2017,14
+"Croatia",2018,16
+"Croatia",2019,18
+"Croatia",2020,16
+"Croatia",2021,20
+"Croatia",2022,21
+"Croatia",2023,25
+"Cuba",2002,2
+"Cuba",2003,4
+"Cuba",2004,2
+"Cuba",2005,5
+"Cuba",2006,3
+"Cuba",2016,2
+"Cuba",2017,3
+"Cuba",2018,3
+"Cuba",2019,3
+"Cuba",2020,1
+"Cuba",2021,1
+"Cuba",2022,1
+"Curacao",2002,
+"Curacao",2003,
+"Curacao",2004,
+"Curacao",2005,
+"Curacao",2006,
+"Curacao",2007,
+"Curacao",2008,
+"Curacao",2009,
+"Curacao",2010,
+"Curacao",2017,2
+"Curacao",2018,2
+"Curacao",2019,2
+"Curacao",2020,1
+"Cyprus",2002,3
+"Cyprus",2003,4
+"Cyprus",2004,4
+"Cyprus",2005,4
+"Cyprus",2006,5
+"Cyprus",2007,11
+"Cyprus",2008,11
+"Cyprus",2009,10
+"Cyprus",2010,9
+"Cyprus",2011,10
+"Cyprus",2012,7
+"Cyprus",2013,5
+"Cyprus",2014,7
+"Cyprus",2015,8
+"Cyprus",2016,8
+"Cyprus",2017,5
+"Cyprus",2018,7
+"Cyprus",2019,5
+"Cyprus",2020,11
+"Cyprus",2021,12
+"Cyprus",2022,21
+"Cyprus",2023,16
+"Czechia",2002,44
+"Czechia",2003,60
+"Czechia",2004,68
+"Czechia",2005,51
+"Czechia",2006,36
+"Czechia",2007,70
+"Czechia",2008,88
+"Czechia",2009,60
+"Czechia",2010,53
+"Czechia",2011,74
+"Czechia",2012,67
+"Czechia",2013,83
+"Czechia",2014,90
+"Czechia",2015,87
+"Czechia",2016,116
+"Czechia",2017,101
+"Czechia",2018,122
+"Czechia",2019,127
+"Czechia",2020,105
+"Czechia",2021,135
+"Czechia",2022,131
+"Czechia",2023,109
+"Dem. Rep. of the Congo",2015,2
+"Dem. Rep. of the Congo",2016,1
+"Dem. Rep. of the Congo",2017,1
+"Dem. Rep. of the Congo",2018,1
+"Dem. Rep. of the Congo",2019,1
+"Dem. Rep. of the Congo",2020,2
+"Dem. Rep. of the Congo",2021,1
+"Dem. Rep. of the Congo",2022,1
+"Denmark",2002,71
+"Denmark",2003,42
+"Denmark",2004,48
+"Denmark",2005,57
+"Denmark",2006,69
+"Denmark",2007,152
+"Denmark",2008,155
+"Denmark",2009,105
+"Denmark",2010,114
+"Denmark",2011,114
+"Denmark",2012,103
+"Denmark",2013,122
+"Denmark",2014,150
+"Denmark",2015,132
+"Denmark",2016,92
+"Denmark",2017,119
+"Denmark",2018,94
+"Denmark",2019,150
+"Denmark",2020,149
+"Denmark",2021,128
+"Denmark",2022,155
+"Denmark",2023,109
+"Djibouti",2009,3
+"Djibouti",2021,0
+"Djibouti",2022,0
+"Djibouti",2023,1
+"Dominica",2002,0
+"Dominica",2003,0
+"Dominica",2004,0
+"Dominica",2005,0
+"Dominica",2006,0
+"Dominica",2007,0
+"Dominica",2008,0
+"Dominica",2009,0
+"Dominica",2010,0
+"Dominica",2012,0
+"Dominica",2013,0
+"Dominica",2016,0
+"Dominica",2017,0
+"Dominica",2018,0
+"Dominica",2019,0
+"Dominica",2020,0
+"Dominica",2021,0
+"Dominica",2022,0
+"Dominica",2023,0
+"Dominican Republic",2002,2
+"Dominican Republic",2003,2
+"Dominican Republic",2004,2
+"Dominican Republic",2005,4
+"Dominican Republic",2006,9
+"Dominican Republic",2007,7
+"Dominican Republic",2008,9
+"Dominican Republic",2009,6
+"Dominican Republic",2010,5
+"Dominican Republic",2011,8
+"Dominican Republic",2012,6
+"Dominican Republic",2013,6
+"Dominican Republic",2014,7
+"Dominican Republic",2015,10
+"Dominican Republic",2016,8
+"Dominican Republic",2017,7
+"Dominican Republic",2018,5
+"Dominican Republic",2019,8
+"Dominican Republic",2020,5
+"Dominican Republic",2021,7
+"Dominican Republic",2022,12
+"Dominican Republic",2023,10
+"Ecuador",2002,4
+"Ecuador",2003,5
+"Ecuador",2004,6
+"Ecuador",2005,7
+"Ecuador",2006,7
+"Ecuador",2007,8
+"Ecuador",2008,13
+"Ecuador",2009,10
+"Ecuador",2010,17
+"Ecuador",2011,19
+"Ecuador",2012,23
+"Ecuador",2013,13
+"Ecuador",2014,16
+"Ecuador",2015,8
+"Ecuador",2016,5
+"Ecuador",2017,8
+"Ecuador",2018,13
+"Ecuador",2019,12
+"Ecuador",2020,5
+"Ecuador",2021,8
+"Ecuador",2022,17
+"Ecuador",2023,9
+"Egypt",2002,2
+"Egypt",2003,1
+"Egypt",2004,2
+"Egypt",2005,1
+"Egypt",2006,2
+"Egypt",2007,11
+"Egypt",2008,36
+"Egypt",2009,31
+"Egypt",2010,22
+"Egypt",2011,10
+"Egypt",2012,7
+"Egypt",2013,5
+"Egypt",2014,6
+"Egypt",2015,8
+"Egypt",2016,5
+"Egypt",2017,4
+"Egypt",2018,18
+"Egypt",2019,10
+"Egypt",2020,23
+"Egypt",2021,13
+"Egypt",2022,17
+"Egypt",2023,2
+"El Salvador",2002,2
+"El Salvador",2003,2
+"El Salvador",2004,2
+"El Salvador",2005,3
+"El Salvador",2006,3
+"El Salvador",2007,4
+"El Salvador",2008,4
+"El Salvador",2009,3
+"El Salvador",2010,4
+"El Salvador",2011,5
+"El Salvador",2012,5
+"El Salvador",2013,6
+"El Salvador",2014,5
+"El Salvador",2015,5
+"El Salvador",2016,5
+"El Salvador",2017,5
+"El Salvador",2018,6
+"El Salvador",2019,6
+"El Salvador",2020,4
+"El Salvador",2021,5
+"El Salvador",2022,6
+"El Salvador",2023,6
+"Eritrea",2003,0
+"Estonia",2002,3
+"Estonia",2003,4
+"Estonia",2004,5
+"Estonia",2005,5
+"Estonia",2006,6
+"Estonia",2007,10
+"Estonia",2008,10
+"Estonia",2009,5
+"Estonia",2010,6
+"Estonia",2011,8
+"Estonia",2012,7
+"Estonia",2013,7
+"Estonia",2014,9
+"Estonia",2015,10
+"Estonia",2016,14
+"Estonia",2017,11
+"Estonia",2018,14
+"Estonia",2019,14
+"Estonia",2020,14
+"Estonia",2021,16
+"Estonia",2022,14
+"Estonia",2023,14
+"Eswatini",2002,0
+"Eswatini",2003,1
+"Eswatini",2004,1
+"Eswatini",2005,1
+"Eswatini",2006,0
+"Eswatini",2007,1
+"Eswatini",2008,1
+"Eswatini",2009,1
+"Eswatini",2010,1
+"Eswatini",2011,2
+"Eswatini",2012,1
+"Eswatini",2013,1
+"Eswatini",2014,1
+"Eswatini",2015,1
+"Eswatini",2016,1
+"Eswatini",2017,1
+"Eswatini",2018,1
+"Eswatini",2019,1
+"Eswatini",2020,1
+"Eswatini",2021,1
+"Eswatini",2022,1
+"Eswatini",2023,1
+"Ethiopia",2002,1
+"Ethiopia",2003,1
+"Ethiopia",2004,2
+"Ethiopia",2005,3
+"Ethiopia",2006,2
+"Ethiopia",2007,2
+"Ethiopia",2008,4
+"Ethiopia",2009,3
+"Ethiopia",2010,4
+"Ethiopia",2011,3
+"Ethiopia",2012,4
+"Ethiopia",2013,5
+"Ethiopia",2014,5
+"Ethiopia",2015,8
+"Ethiopia",2016,6
+"Ethiopia",2017,7
+"Ethiopia",2018,4
+"Ethiopia",2019,5
+"Ethiopia",2020,2
+"Ethiopia",2021,7
+"Ethiopia",2022,19
+"Ethiopia",2023,17
+"Faroe Islands",2002,1
+"Faroe Islands",2003,1
+"Faroe Islands",2004,1
+"Faroe Islands",2005,1
+"Faroe Islands",2006,1
+"Faroe Islands",2007,2
+"Faroe Islands",2008,1
+"Faroe Islands",2009,1
+"Fiji",2002,1
+"Fiji",2003,1
+"Fiji",2004,1
+"Fiji",2005,1
+"Fiji",2006,1
+"Fiji",2007,1
+"Fiji",2008,2
+"Fiji",2009,1
+"Fiji",2010,1
+"Fiji",2011,1
+"Fiji",2012,1
+"Fiji",2013,2
+"Fiji",2014,1
+"Fiji",2015,1
+"Fiji",2016,1
+"Fiji",2017,2
+"Fiji",2018,2
+"Fiji",2019,2
+"Fiji",2020,1
+"Fiji",2021,1
+"Fiji",2022,2
+"Fiji",2023,1
+"Finland",2002,21
+"Finland",2003,26
+"Finland",2004,35
+"Finland",2005,37
+"Finland",2006,55
+"Finland",2007,71
+"Finland",2008,55
+"Finland",2009,51
+"Finland",2010,45
+"Finland",2011,53
+"Finland",2012,53
+"Finland",2013,76
+"Finland",2014,57
+"Finland",2015,50
+"Finland",2016,49
+"Finland",2017,52
+"Finland",2018,61
+"Finland",2019,64
+"Finland",2020,65
+"Finland",2021,72
+"Finland",2022,76
+"Finland",2023,56
+"France",2002,328
+"France",2003,381
+"France",2004,510
+"France",2005,515
+"France",2006,654
+"France",2007,1083
+"France",2008,1157
+"France",2009,936
+"France",2010,1013
+"France",2011,1056
+"France",2012,996
+"France",2013,1014
+"France",2014,1542
+"France",2015,1046
+"France",2016,1003
+"France",2017,1185
+"France",2018,1215
+"France",2019,1086
+"France",2020,1190
+"France",2021,1626
+"France",2022,1519
+"France",2023,1510
+"French Polynesia",2002,1
+"French Polynesia",2003,2
+"French Polynesia",2004,2
+"French Polynesia",2005,2
+"French Polynesia",2006,2
+"French Polynesia",2007,2
+"French Polynesia",2008,5
+"French Polynesia",2009,4
+"French Polynesia",2010,3
+"French Polynesia",2011,2
+"French Polynesia",2012,2
+"French Polynesia",2013,2
+"French Polynesia",2014,2
+"French Polynesia",2015,2
+"French Polynesia",2016,2
+"French Polynesia",2017,2
+"French Polynesia",2018,2
+"French Polynesia",2019,2
+"French Polynesia",2020,2
+"French Polynesia",2021,2
+"French Polynesia",2022,2
+"French Polynesia",2023,1
+"Gabon",2002,0
+"Gabon",2003,0
+"Gabon",2004,0
+"Gabon",2005,1
+"Gabon",2006,2
+"Gabon",2007,2
+"Gabon",2008,1
+"Gabon",2009,1
+"Gabon",2010,4
+"Gabon",2011,2
+"Gabon",2012,2
+"Gabon",2013,5
+"Gabon",2014,5
+"Gabon",2015,4
+"Gabon",2016,2
+"Gabon",2017,1
+"Gabon",2018,1
+"Gabon",2019,2
+"Gabon",2020,1
+"Gabon",2021,1
+"Gabon",2022,5
+"Gabon",2023,1
+"Gambia",2002,0
+"Gambia",2003,0
+"Gambia",2004,0
+"Gambia",2005,0
+"Gambia",2006,0
+"Gambia",2007,0
+"Gambia",2008,0
+"Gambia",2009,0
+"Gambia",2010,0
+"Gambia",2011,0
+"Gambia",2012,0
+"Gambia",2013,1
+"Gambia",2014,2
+"Gambia",2015,0
+"Gambia",2016,0
+"Gambia",2017,0
+"Gambia",2018,0
+"Gambia",2019,0
+"Gambia",2020,0
+"Gambia",2021,0
+"Gambia",2022,0
+"Gambia",2023,0
+"Georgia",2002,5
+"Georgia",2003,0
+"Georgia",2004,0
+"Georgia",2005,1
+"Georgia",2006,3
+"Georgia",2007,5
+"Georgia",2008,3
+"Georgia",2009,5
+"Georgia",2010,5
+"Georgia",2011,5
+"Georgia",2012,6
+"Georgia",2013,5
+"Georgia",2014,5
+"Georgia",2015,7
+"Georgia",2016,6
+"Georgia",2017,4
+"Georgia",2018,5
+"Georgia",2019,5
+"Georgia",2020,4
+"Georgia",2021,4
+"Georgia",2022,6
+"Georgia",2023,8
+"Germany",2002,564
+"Germany",2003,480
+"Germany",2004,644
+"Germany",2005,723
+"Germany",2006,770
+"Germany",2007,910
+"Germany",2008,1352
+"Germany",2009,1237
+"Germany",2010,1153
+"Germany",2011,1387
+"Germany",2012,1482
+"Germany",2013,1447
+"Germany",2014,1506
+"Germany",2015,1452
+"Germany",2016,1386
+"Germany",2017,1390
+"Germany",2018,1565
+"Germany",2019,1598
+"Germany",2020,2384
+"Germany",2021,1869
+"Germany",2022,1687
+"Germany",2023,1628
+"Ghana",2002,1
+"Ghana",2003,1
+"Ghana",2005,1
+"Ghana",2006,2
+"Ghana",2007,2
+"Ghana",2008,3
+"Ghana",2009,3
+"Ghana",2010,12
+"Ghana",2011,8
+"Ghana",2012,7
+"Ghana",2013,7
+"Ghana",2014,20
+"Ghana",2015,9
+"Ghana",2016,7
+"Ghana",2017,6
+"Ghana",2018,4
+"Ghana",2019,18
+"Ghana",2021,11
+"Ghana",2022,6
+"Ghana",2023,3
+"Greece",2002,19
+"Greece",2003,24
+"Greece",2004,33
+"Greece",2005,29
+"Greece",2006,32
+"Greece",2007,96
+"Greece",2008,106
+"Greece",2009,81
+"Greece",2010,282
+"Greece",2011,50
+"Greece",2012,35
+"Greece",2013,37
+"Greece",2014,40
+"Greece",2015,34
+"Greece",2016,34
+"Greece",2017,36
+"Greece",2018,42
+"Greece",2019,38
+"Greece",2020,41
+"Greece",2021,46
+"Greece",2022,65
+"Greece",2023,71
+"Greenland",2002,1
+"Greenland",2003,1
+"Greenland",2004,1
+"Greenland",2005,1
+"Greenland",2006,1
+"Greenland",2007,1
+"Greenland",2008,2
+"Greenland",2009,2
+"Greenland",2010,1
+"Greenland",2011,1
+"Greenland",2012,1
+"Greenland",2013,1
+"Greenland",2014,1
+"Greenland",2015,0
+"Greenland",2016,1
+"Greenland",2017,1
+"Greenland",2018,0
+"Grenada",2002,0
+"Grenada",2003,0
+"Grenada",2004,0
+"Grenada",2005,0
+"Grenada",2006,0
+"Grenada",2007,0
+"Grenada",2008,0
+"Grenada",2009,0
+"Grenada",2010,0
+"Grenada",2011,0
+"Grenada",2012,0
+"Grenada",2013,1
+"Grenada",2014,0
+"Grenada",2015,0
+"Grenada",2016,0
+"Grenada",2017,0
+"Grenada",2018,1
+"Grenada",2019,1
+"Grenada",2020,1
+"Grenada",2021,0
+"Grenada",2022,0
+"Grenada",2023,0
+"Guatemala",2002,7
+"Guatemala",2003,7
+"Guatemala",2004,7
+"Guatemala",2005,8
+"Guatemala",2006,10
+"Guatemala",2007,13
+"Guatemala",2008,12
+"Guatemala",2009,10
+"Guatemala",2010,14
+"Guatemala",2011,13
+"Guatemala",2012,16
+"Guatemala",2013,14
+"Guatemala",2014,13
+"Guatemala",2015,14
+"Guatemala",2016,13
+"Guatemala",2017,20
+"Guatemala",2018,17
+"Guatemala",2019,16
+"Guatemala",2020,11
+"Guatemala",2021,15
+"Guatemala",2022,21
+"Guatemala",2023,22
+"Guinea",2002,0
+"Guinea",2004,0
+"Guinea",2005,0
+"Guinea",2006,0
+"Guinea",2007,1
+"Guinea",2008,3
+"Guinea",2013,0
+"Guinea",2014,0
+"Guinea",2015,0
+"Guinea",2016,0
+"Guinea-Bissau",2003,0
+"Guinea-Bissau",2004,0
+"Guinea-Bissau",2005,0
+"Guinea-Bissau",2014,0
+"Guinea-Bissau",2015,0
+"Guinea-Bissau",2016,0
+"Guinea-Bissau",2017,0
+"Guinea-Bissau",2018,0
+"Guyana",2002,0
+"Guyana",2003,0
+"Guyana",2004,1
+"Guyana",2005,0
+"Guyana",2006,0
+"Guyana",2007,0
+"Guyana",2008,0
+"Guyana",2009,1
+"Guyana",2010,1
+"Guyana",2011,0
+"Guyana",2012,0
+"Guyana",2013,0
+"Guyana",2014,1
+"Guyana",2015,0
+"Guyana",2016,1
+"Guyana",2017,0
+"Guyana",2018,1
+"Guyana",2019,1
+"Guyana",2020,0
+"Guyana",2021,0
+"Guyana",2022,0
+"Guyana",2023,1
+"Honduras",2002,2
+"Honduras",2003,1
+"Honduras",2004,2
+"Honduras",2005,2
+"Honduras",2006,3
+"Honduras",2007,3
+"Honduras",2009,3
+"Honduras",2010,5
+"Honduras",2011,4
+"Honduras",2012,4
+"Honduras",2014,5
+"Honduras",2015,4
+"Honduras",2016,5
+"Honduras",2017,6
+"Honduras",2018,6
+"Honduras",2019,7
+"Honduras",2020,5
+"Honduras",2021,8
+"Honduras",2023,14
+"Hungary",2002,11
+"Hungary",2003,14
+"Hungary",2004,14
+"Hungary",2005,15
+"Hungary",2006,16
+"Hungary",2007,39
+"Hungary",2008,32
+"Hungary",2009,36
+"Hungary",2010,20
+"Hungary",2011,16
+"Hungary",2012,14
+"Hungary",2013,14
+"Hungary",2014,13
+"Hungary",2015,20
+"Hungary",2016,15
+"Hungary",2017,16
+"Hungary",2018,24
+"Hungary",2019,30
+"Hungary",2020,20
+"Hungary",2021,33
+"Hungary",2022,21
+"Hungary",2023,26
+"Iceland",2002,3
+"Iceland",2003,4
+"Iceland",2004,5
+"Iceland",2005,9
+"Iceland",2006,8
+"Iceland",2007,10
+"Iceland",2008,8
+"Iceland",2009,5
+"Iceland",2010,4
+"Iceland",2011,5
+"Iceland",2012,4
+"Iceland",2013,4
+"Iceland",2014,4
+"Iceland",2015,4
+"Iceland",2016,6
+"Iceland",2017,6
+"Iceland",2018,7
+"Iceland",2019,6
+"Iceland",2020,6
+"Iceland",2021,9
+"Iceland",2022,9
+"Iceland",2023,8
+"India",2002,5
+"India",2003,7
+"India",2004,9
+"India",2005,23
+"India",2006,41
+"India",2007,87
+"India",2008,50
+"India",2009,1979
+"India",2010,1183
+"India",2011,1859
+"India",2012,934
+"India",2013,663
+"India",2014,892
+"India",2015,1121
+"India",2016,1608
+"India",2017,1505
+"India",2018,1228
+"India",2019,1102
+"India",2020,345
+"India",2021,290
+"India",2022,492
+"India",2023,704
+"Indonesia",2002,
+"Indonesia",2003,23
+"Indonesia",2004,33
+"Indonesia",2005,36
+"Indonesia",2006,40
+"Indonesia",2007,37
+"Indonesia",2008,126
+"Indonesia",2009,71
+"Indonesia",2010,165
+"Indonesia",2011,233
+"Indonesia",2012,215
+"Indonesia",2013,199
+"Indonesia",2014,203
+"Indonesia",2015,186
+"Indonesia",2016,171
+"Indonesia",2017,152
+"Indonesia",2018,183
+"Indonesia",2019,200
+"Indonesia",2020,198
+"Indonesia",2021,214
+"Indonesia",2022,226
+"Indonesia",2023,204
+"Indonesia (...2002)",2002,39
+"Indonesia (...2002)",2003,
+"Indonesia (...2002)",2004,
+"Indonesia (...2002)",2005,
+"Indonesia (...2002)",2006,
+"Indonesia (...2002)",2007,
+"Indonesia (...2002)",2008,
+"Indonesia (...2002)",2009,
+"Indonesia (...2002)",2010,
+"Indonesia (...2002)",2011,
+"Indonesia (...2002)",2012,
+"Indonesia (...2002)",2013,
+"Indonesia (...2002)",2014,
+"Indonesia (...2002)",2015,
+"Indonesia (...2002)",2016,
+"Indonesia (...2002)",2017,
+"Indonesia (...2002)",2018,
+"Indonesia (...2002)",2019,
+"Indonesia (...2002)",2020,
+"Indonesia (...2002)",2021,
+"Indonesia (...2002)",2022,
+"Indonesia (...2002)",2023,
+"Iran (Islamic Republic of)",2002,5
+"Iran (Islamic Republic of)",2003,9
+"Iran (Islamic Republic of)",2004,20
+"Iran (Islamic Republic of)",2005,107
+"Iran (Islamic Republic of)",2006,4
+"Iran (Islamic Republic of)",2010,6
+"Iran (Islamic Republic of)",2011,12
+"Iran (Islamic Republic of)",2013,9
+"Iran (Islamic Republic of)",2014,6
+"Iran (Islamic Republic of)",2015,5
+"Iran (Islamic Republic of)",2016,8
+"Iran (Islamic Republic of)",2017,13
+"Iran (Islamic Republic of)",2018,8
+"Iran (Islamic Republic of)",2019,4
+"Iran (Islamic Republic of)",2020,1
+"Iran (Islamic Republic of)",2021,0
+"Iran (Islamic Republic of)",2022,1
+"Iraq",2014,3
+"Ireland",2002,26
+"Ireland",2003,35
+"Ireland",2004,40
+"Ireland",2005,37
+"Ireland",2006,54
+"Ireland",2007,101
+"Ireland",2008,101
+"Ireland",2009,77
+"Ireland",2010,77
+"Ireland",2011,53
+"Ireland",2012,43
+"Ireland",2013,42
+"Ireland",2014,40
+"Ireland",2015,37
+"Ireland",2016,43
+"Ireland",2017,46
+"Ireland",2018,48
+"Ireland",2019,46
+"Ireland",2020,56
+"Ireland",2021,81
+"Ireland",2022,95
+"Ireland",2023,74
+"Israel",2002,34
+"Israel",2003,36
+"Israel",2004,33
+"Israel",2005,30
+"Israel",2006,37
+"Israel",2007,81
+"Israel",2008,68
+"Israel",2009,61
+"Israel",2010,82
+"Israel",2011,118
+"Israel",2012,96
+"Israel",2013,74
+"Israel",2014,73
+"Israel",2015,69
+"Israel",2016,71
+"Israel",2017,98
+"Israel",2018,89
+"Israel",2019,69
+"Israel",2020,61
+"Israel",2021,150
+"Israel",2022,85
+"Israel",2023,58
+"Italy",2002,249
+"Italy",2003,173
+"Italy",2004,214
+"Italy",2005,248
+"Italy",2006,264
+"Italy",2007,587
+"Italy",2008,785
+"Italy",2009,467
+"Italy",2010,395
+"Italy",2011,398
+"Italy",2012,499
+"Italy",2013,344
+"Italy",2014,314
+"Italy",2015,315
+"Italy",2016,276
+"Italy",2017,319
+"Italy",2018,380
+"Italy",2019,342
+"Italy",2020,294
+"Italy",2021,471
+"Italy",2022,375
+"Italy",2023,467
+"Jamaica",2002,2
+"Jamaica",2003,2
+"Jamaica",2004,2
+"Jamaica",2005,2
+"Jamaica",2006,2
+"Jamaica",2007,4
+"Jamaica",2008,4
+"Jamaica",2009,3
+"Jamaica",2010,3
+"Jamaica",2011,3
+"Jamaica",2012,4
+"Jamaica",2013,4
+"Jamaica",2014,3
+"Jamaica",2015,2
+"Jamaica",2016,3
+"Jamaica",2017,4
+"Jamaica",2018,3
+"Jamaica",2019,3
+"Jamaica",2020,4
+"Jamaica",2021,4
+"Jamaica",2022,3
+"Jamaica",2023,6
+"Japan",2002,545
+"Japan",2003,567
+"Japan",2004,691
+"Japan",2005,697
+"Japan",2006,803
+"Japan",2007,830
+"Japan",2008,981
+"Japan",2009,755
+"Japan",2010,772
+"Japan",2011,743
+"Japan",2012,817
+"Japan",2013,830
+"Japan",2014,897
+"Japan",2015,896
+"Japan",2016,1008
+"Japan",2017,1081
+"Japan",2018,1070
+"Japan",2019,1037
+"Japan",2020,1002
+"Japan",2021,1121
+"Japan",2022,877
+"Japan",2023,343
+"Jordan",2002,1
+"Jordan",2003,1
+"Jordan",2004,1
+"Jordan",2005,1
+"Jordan",2006,1
+"Jordan",2007,18
+"Jordan",2008,10
+"Jordan",2009,11
+"Jordan",2010,8
+"Jordan",2011,10
+"Jordan",2012,9
+"Jordan",2013,7
+"Jordan",2014,6
+"Jordan",2015,3
+"Jordan",2016,4
+"Jordan",2017,2
+"Jordan",2018,6
+"Jordan",2019,10
+"Jordan",2020,7
+"Jordan",2021,17
+"Jordan",2022,13
+"Jordan",2023,7
+"Kazakhstan",2002,2
+"Kazakhstan",2003,2
+"Kazakhstan",2004,3
+"Kazakhstan",2005,8
+"Kazakhstan",2006,6
+"Kazakhstan",2007,10
+"Kazakhstan",2008,12
+"Kazakhstan",2009,27
+"Kazakhstan",2010,21
+"Kazakhstan",2011,116
+"Kazakhstan",2012,35
+"Kazakhstan",2013,21
+"Kazakhstan",2014,28
+"Kazakhstan",2015,13
+"Kazakhstan",2016,14
+"Kazakhstan",2017,13
+"Kazakhstan",2018,10
+"Kazakhstan",2019,8
+"Kazakhstan",2020,5
+"Kazakhstan",2021,9
+"Kazakhstan",2022,3
+"Kazakhstan",2023,30
+"Kenya",2002,0
+"Kenya",2003,1
+"Kenya",2004,1
+"Kenya",2005,1
+"Kenya",2006,1
+"Kenya",2007,1
+"Kenya",2008,5
+"Kenya",2009,3
+"Kenya",2010,4
+"Kenya",2013,17
+"Kenya",2015,9
+"Kenya",2016,7
+"Kenya",2017,11
+"Kenya",2018,11
+"Kenya",2019,11
+"Kenya",2020,7
+"Kenya",2021,12
+"Kenya",2022,7
+"Kenya",2023,10
+"Kiribati",2004,0
+"Kiribati",2005,0
+"Kiribati",2006,0
+"Kiribati",2007,0
+"Kiribati",2008,0
+"Kiribati",2009,0
+"Kiribati",2010,0
+"Kiribati",2011,0
+"Kiribati",2012,0
+"Kiribati",2013,0
+"Kiribati",2014,0
+"Kiribati",2015,0
+"Kiribati",2016,0
+"Kiribati",2017,0
+"Kiribati",2018,1
+"Kiribati",2020,0
+"Kiribati",2021,0
+"Kuwait",2002,0
+"Kuwait",2003,0
+"Kuwait",2004,0
+"Kuwait",2006,5
+"Kuwait",2007,8
+"Kuwait",2008,12
+"Kuwait",2010,58
+"Kuwait",2011,60
+"Kuwait",2013,78
+"Kuwait",2014,62
+"Kuwait",2015,146
+"Kuwait",2016,17
+"Kuwait",2017,10
+"Kuwait",2018,39
+"Kuwait",2019,14
+"Kuwait",2020,13
+"Kuwait",2021,13
+"Kuwait",2022,10
+"Kuwait",2023,10
+"Kyrgyzstan",2002,0
+"Kyrgyzstan",2003,0
+"Kyrgyzstan",2004,0
+"Kyrgyzstan",2005,0
+"Kyrgyzstan",2006,0
+"Kyrgyzstan",2007,2
+"Kyrgyzstan",2008,1
+"Kyrgyzstan",2009,1
+"Kyrgyzstan",2010,0
+"Kyrgyzstan",2011,0
+"Kyrgyzstan",2012,0
+"Kyrgyzstan",2013,0
+"Kyrgyzstan",2014,0
+"Kyrgyzstan",2015,0
+"Kyrgyzstan",2016,1
+"Kyrgyzstan",2017,0
+"Kyrgyzstan",2018,2
+"Kyrgyzstan",2019,0
+"Kyrgyzstan",2020,0
+"Kyrgyzstan",2021,1
+"Kyrgyzstan",2022,1
+"Kyrgyzstan",2023,1
+"Lao People's Dem. Rep.",2010,1
+"Lao People's Dem. Rep.",2011,0
+"Lao People's Dem. Rep.",2012,0
+"Lao People's Dem. Rep.",2013,2
+"Lao People's Dem. Rep.",2014,0
+"Lao People's Dem. Rep.",2015,0
+"Lao People's Dem. Rep.",2016,0
+"Lao People's Dem. Rep.",2017,1
+"Lao People's Dem. Rep.",2018,0
+"Lao People's Dem. Rep.",2019,0
+"Lao People's Dem. Rep.",2020,1
+"Lao People's Dem. Rep.",2021,2
+"Latvia",2002,1
+"Latvia",2003,3
+"Latvia",2004,3
+"Latvia",2005,3
+"Latvia",2006,5
+"Latvia",2007,19
+"Latvia",2008,15
+"Latvia",2009,7
+"Latvia",2010,6
+"Latvia",2011,11
+"Latvia",2012,10
+"Latvia",2013,8
+"Latvia",2014,9
+"Latvia",2015,9
+"Latvia",2016,12
+"Latvia",2017,10
+"Latvia",2018,10
+"Latvia",2019,12
+"Latvia",2020,10
+"Latvia",2021,12
+"Latvia",2022,13
+"Latvia",2023,11
+"Lebanon",2002,5
+"Lebanon",2003,5
+"Lebanon",2004,5
+"Lebanon",2005,5
+"Lebanon",2006,4
+"Lebanon",2007,10
+"Lebanon",2008,13
+"Lebanon",2009,19
+"Lebanon",2010,26
+"Lebanon",2011,21
+"Lebanon",2012,32
+"Lebanon",2013,19
+"Lebanon",2014,14
+"Lebanon",2015,23
+"Lebanon",2016,13
+"Lebanon",2017,13
+"Lebanon",2018,16
+"Lebanon",2019,14
+"Lebanon",2020,5
+"Lebanon",2021,26
+"Lebanon",2022,31
+"Lebanon",2023,12
+"Lesotho",2002,0
+"Lesotho",2003,1
+"Lesotho",2004,0
+"Lesotho",2005,1
+"Lesotho",2006,1
+"Lesotho",2007,2
+"Lesotho",2008,1
+"Lesotho",2009,1
+"Lesotho",2010,0
+"Lesotho",2011,0
+"Lesotho",2012,0
+"Lesotho",2013,1
+"Lesotho",2014,1
+"Lesotho",2015,0
+"Lesotho",2016,1
+"Lesotho",2017,0
+"Lesotho",2018,1
+"Lesotho",2019,0
+"Lesotho",2020,0
+"Lesotho",2021,0
+"Lesotho",2022,1
+"Lesotho",2023,0
+"Liberia",2017,0
+"Liberia",2018,0
+"Liberia",2019,0
+"Liberia",2020,0
+"Liberia",2021,0
+"Liberia",2022,0
+"Liberia",2023,0
+"Libya",2007,3
+"Libya",2008,7
+"Libya",2009,7
+"Libya",2010,5
+"Libya",2016,0
+"Libya",2017,0
+"Libya",2018,1
+"Libya",2019,1
+"Lithuania",2002,3
+"Lithuania",2003,3
+"Lithuania",2004,3
+"Lithuania",2005,3
+"Lithuania",2006,4
+"Lithuania",2007,12
+"Lithuania",2008,9
+"Lithuania",2009,5
+"Lithuania",2010,5
+"Lithuania",2011,9
+"Lithuania",2012,9
+"Lithuania",2013,9
+"Lithuania",2014,9
+"Lithuania",2015,10
+"Lithuania",2016,9
+"Lithuania",2017,10
+"Lithuania",2018,12
+"Lithuania",2019,13
+"Lithuania",2020,15
+"Lithuania",2021,17
+"Lithuania",2022,20
+"Lithuania",2023,23
+"Luxembourg",2002,11
+"Luxembourg",2003,19
+"Luxembourg",2004,12
+"Luxembourg",2005,10
+"Luxembourg",2006,23
+"Luxembourg",2007,67
+"Luxembourg",2008,59
+"Luxembourg",2009,41
+"Luxembourg",2010,18
+"Luxembourg",2011,28
+"Luxembourg",2012,24
+"Luxembourg",2013,21
+"Luxembourg",2014,25
+"Luxembourg",2015,15
+"Luxembourg",2016,105
+"Luxembourg",2017,33
+"Luxembourg",2018,109
+"Luxembourg",2019,74
+"Luxembourg",2020,47
+"Luxembourg",2021,24
+"Luxembourg",2022,25
+"Luxembourg",2023,30
+"Madagascar",2002,0
+"Madagascar",2003,0
+"Madagascar",2004,0
+"Madagascar",2005,0
+"Madagascar",2006,0
+"Madagascar",2007,2
+"Madagascar",2008,2
+"Madagascar",2009,2
+"Madagascar",2010,2
+"Madagascar",2011,2
+"Madagascar",2012,1
+"Madagascar",2013,1
+"Madagascar",2014,2
+"Madagascar",2015,2
+"Madagascar",2016,2
+"Madagascar",2017,2
+"Madagascar",2018,4
+"Madagascar",2019,3
+"Madagascar",2020,3
+"Madagascar",2021,3
+"Madagascar",2022,4
+"Madagascar",2023,3
+"Malawi",2002,0
+"Malawi",2003,0
+"Malawi",2004,0
+"Malawi",2005,0
+"Malawi",2006,0
+"Malawi",2007,1
+"Malawi",2008,0
+"Malawi",2009,2
+"Malawi",2010,2
+"Malawi",2011,2
+"Malawi",2012,3
+"Malawi",2013,1
+"Malawi",2014,1
+"Malawi",2015,1
+"Malawi",2016,1
+"Malawi",2017,1
+"Malawi",2018,2
+"Malawi",2019,1
+"Malawi",2020,1
+"Malawi",2021,2
+"Malawi",2022,0
+"Malawi",2023,2
+"Malaysia",2002,40
+"Malaysia",2003,42
+"Malaysia",2004,38
+"Malaysia",2005,44
+"Malaysia",2006,51
+"Malaysia",2007,58
+"Malaysia",2008,67
+"Malaysia",2009,129
+"Malaysia",2010,122
+"Malaysia",2011,140
+"Malaysia",2012,145
+"Malaysia",2013,151
+"Malaysia",2014,96
+"Malaysia",2015,92
+"Malaysia",2016,108
+"Malaysia",2017,101
+"Malaysia",2018,113
+"Malaysia",2019,133
+"Malaysia",2020,108
+"Malaysia",2021,142
+"Malaysia",2022,155
+"Malaysia",2023,160
+"Maldives",2002,0
+"Maldives",2003,0
+"Maldives",2004,0
+"Maldives",2005,0
+"Maldives",2006,0
+"Maldives",2007,1
+"Maldives",2008,1
+"Maldives",2009,1
+"Maldives",2010,1
+"Maldives",2011,1
+"Maldives",2012,1
+"Maldives",2013,1
+"Maldives",2014,1
+"Maldives",2015,1
+"Maldives",2016,1
+"Maldives",2017,1
+"Maldives",2018,4
+"Maldives",2019,1
+"Maldives",2020,4
+"Maldives",2021,1
+"Maldives",2022,2
+"Maldives",2023,3
+"Mali",2002,1
+"Mali",2003,1
+"Mali",2004,0
+"Mali",2005,0
+"Mali",2006,0
+"Mali",2007,0
+"Mali",2008,3
+"Mali",2010,2
+"Mali",2011,1
+"Mali",2012,1
+"Mali",2016,3
+"Mali",2017,12
+"Mali",2018,2
+"Mali",2019,3
+"Malta",2002,2
+"Malta",2003,2
+"Malta",2004,4
+"Malta",2005,3
+"Malta",2006,2
+"Malta",2007,3
+"Malta",2008,3
+"Malta",2009,2
+"Malta",2010,3
+"Malta",2011,4
+"Malta",2012,5
+"Malta",2013,5
+"Malta",2014,5
+"Malta",2015,5
+"Malta",2016,4
+"Malta",2017,4
+"Malta",2018,6
+"Malta",2019,7
+"Malta",2020,8
+"Malta",2021,7
+"Malta",2022,10
+"Malta",2023,15
+"Mauritania",2002,0
+"Mauritania",2003,0
+"Mauritania",2004,0
+"Mauritania",2005,0
+"Mauritania",2006,0
+"Mauritania",2007,0
+"Mauritania",2008,0
+"Mauritania",2009,0
+"Mauritania",2010,0
+"Mauritania",2011,0
+"Mauritania",2012,0
+"Mauritania",2013,0
+"Mauritania",2014,0
+"Mauritania",2015,0
+"Mauritania",2016,0
+"Mauritania",2017,0
+"Mauritania",2018,0
+"Mauritania",2019,0
+"Mauritania",2020,0
+"Mauritania",2021,4
+"Mauritania",2022,0
+"Mauritania",2023,0
+"Mauritius",2002,1
+"Mauritius",2003,1
+"Mauritius",2004,1
+"Mauritius",2005,1
+"Mauritius",2006,1
+"Mauritius",2007,2
+"Mauritius",2008,4
+"Mauritius",2009,8
+"Mauritius",2010,5
+"Mauritius",2011,3
+"Mauritius",2012,4
+"Mauritius",2013,5
+"Mauritius",2014,5
+"Mauritius",2015,4
+"Mauritius",2016,4
+"Mauritius",2017,4
+"Mauritius",2018,9
+"Mauritius",2019,3
+"Mauritius",2020,2
+"Mauritius",2021,2
+"Mauritius",2022,3
+"Mauritius",2023,3
+"Mayotte",2002,0
+"Mayotte",2003,0
+"Mayotte",2004,0
+"Mayotte",2005,0
+"Mayotte",2006,0
+"Mayotte",2007,0
+"Mayotte",2008,0
+"Mayotte",2009,0
+"Mexico",2002,106
+"Mexico",2003,91
+"Mexico",2004,99
+"Mexico",2005,103
+"Mexico",2006,117
+"Mexico",2007,116
+"Mexico",2008,130
+"Mexico",2009,101
+"Mexico",2010,110
+"Mexico",2011,128
+"Mexico",2012,132
+"Mexico",2013,127
+"Mexico",2014,153
+"Mexico",2015,147
+"Mexico",2016,204
+"Mexico",2017,131
+"Mexico",2018,154
+"Mexico",2019,157
+"Mexico",2020,98
+"Mexico",2021,107
+"Mexico",2022,111
+"Mexico",2023,105
+"Micronesia (Federated States of)",2003,0
+"Micronesia (Federated States of)",2004,0
+"Micronesia (Federated States of)",2005,0
+"Micronesia (Federated States of)",2006,0
+"Micronesia (Federated States of)",2007,0
+"Micronesia (Federated States of)",2008,0
+"Micronesia (Federated States of)",2009,0
+"Micronesia (Federated States of)",2010,0
+"Micronesia (Federated States of)",2011,0
+"Micronesia (Federated States of)",2012,0
+"Micronesia (Federated States of)",2013,0
+"Mongolia",2003,0
+"Mongolia",2004,0
+"Mongolia",2005,0
+"Mongolia",2006,4
+"Mongolia",2007,1
+"Mongolia",2013,12
+"Mongolia",2014,15
+"Mongolia",2015,14
+"Mongolia",2016,26
+"Mongolia",2017,10
+"Mongolia",2018,14
+"Mongolia",2019,18
+"Mongolia",2020,19
+"Mongolia",2021,34
+"Mongolia",2022,14
+"Montenegro",2002,
+"Montenegro",2003,
+"Montenegro",2004,
+"Montenegro",2005,
+"Montenegro",2006,
+"Montenegro",2007,
+"Montenegro",2008,3
+"Montenegro",2009,2
+"Montenegro",2010,1
+"Montenegro",2011,2
+"Montenegro",2012,3
+"Montenegro",2013,1
+"Montenegro",2014,2
+"Montenegro",2015,1
+"Montenegro",2016,1
+"Montenegro",2017,1
+"Montenegro",2018,2
+"Montenegro",2019,3
+"Montenegro",2020,1
+"Montenegro",2021,1
+"Montenegro",2022,2
+"Montenegro",2023,2
+"Montserrat",2002,0
+"Montserrat",2003,0
+"Montserrat",2004,0
+"Montserrat",2005,0
+"Montserrat",2006,0
+"Montserrat",2007,0
+"Montserrat",2008,0
+"Montserrat",2009,0
+"Montserrat",2011,0
+"Montserrat",2012,0
+"Montserrat",2013,0
+"Montserrat",2014,0
+"Montserrat",2015,0
+"Montserrat",2016,0
+"Montserrat",2017,0
+"Montserrat",2018,0
+"Montserrat",2019,0
+"Montserrat",2020,0
+"Montserrat",2021,0
+"Montserrat",2022,0
+"Montserrat",2023,0
+"Morocco",2002,2
+"Morocco",2003,2
+"Morocco",2004,3
+"Morocco",2005,3
+"Morocco",2006,10
+"Morocco",2007,4
+"Morocco",2008,5
+"Morocco",2009,8
+"Morocco",2010,6
+"Morocco",2011,10
+"Morocco",2012,11
+"Morocco",2013,11
+"Morocco",2014,11
+"Morocco",2015,9
+"Morocco",2016,10
+"Morocco",2017,12
+"Morocco",2018,7
+"Morocco",2019,12
+"Morocco",2020,8
+"Morocco",2021,6
+"Morocco",2022,10
+"Morocco",2023,15
+"Mozambique",2002,0
+"Mozambique",2003,0
+"Mozambique",2004,0
+"Mozambique",2005,0
+"Mozambique",2006,1
+"Mozambique",2007,1
+"Mozambique",2008,2
+"Mozambique",2009,1
+"Mozambique",2010,0
+"Mozambique",2011,0
+"Mozambique",2012,2
+"Mozambique",2013,5
+"Mozambique",2014,3
+"Mozambique",2015,3
+"Mozambique",2016,4
+"Mozambique",2017,3
+"Mozambique",2018,3
+"Mozambique",2019,10
+"Mozambique",2020,2
+"Mozambique",2021,4
+"Mozambique",2022,9
+"Mozambique",2023,23
+"Myanmar",2010,0
+"Myanmar",2011,1
+"Myanmar",2012,1
+"Myanmar",2013,6
+"Myanmar",2014,5
+"Myanmar",2015,6
+"Myanmar",2016,3
+"Myanmar",2017,4
+"Myanmar",2018,9
+"Myanmar",2019,4
+"Myanmar",2020,2
+"Myanmar",2021,2
+"Myanmar",2022,2
+"Myanmar",2023,1
+"Namibia",2002,1
+"Namibia",2003,1
+"Namibia",2004,3
+"Namibia",2005,2
+"Namibia",2006,3
+"Namibia",2007,4
+"Namibia",2008,4
+"Namibia",2009,6
+"Namibia",2010,5
+"Namibia",2011,5
+"Namibia",2012,5
+"Namibia",2013,4
+"Namibia",2014,4
+"Namibia",2015,4
+"Namibia",2016,3
+"Namibia",2017,3
+"Namibia",2018,3
+"Namibia",2019,2
+"Namibia",2020,1
+"Namibia",2021,2
+"Namibia",2022,1
+"Namibia",2023,3
+"Nepal",2003,1
+"Nepal",2009,8
+"Nepal",2010,27
+"Nepal",2011,12
+"Nepal",2012,18
+"Nepal",2013,15
+"Nepal",2014,19
+"Nepal",2015,24
+"Nepal",2016,19
+"Nepal",2017,48
+"Nepal",2018,23
+"Nepal",2019,58
+"Nepal",2020,24
+"Nepal",2021,7
+"Nepal",2022,6
+"Netherlands (Kingdom of the)",2002,165
+"Netherlands (Kingdom of the)",2003,175
+"Netherlands (Kingdom of the)",2004,208
+"Netherlands (Kingdom of the)",2005,231
+"Netherlands (Kingdom of the)",2006,315
+"Netherlands (Kingdom of the)",2007,464
+"Netherlands (Kingdom of the)",2008,519
+"Netherlands (Kingdom of the)",2009,374
+"Netherlands (Kingdom of the)",2010,376
+"Netherlands (Kingdom of the)",2011,377
+"Netherlands (Kingdom of the)",2012,362
+"Netherlands (Kingdom of the)",2013,382
+"Netherlands (Kingdom of the)",2014,435
+"Netherlands (Kingdom of the)",2015,495
+"Netherlands (Kingdom of the)",2016,392
+"Netherlands (Kingdom of the)",2017,323
+"Netherlands (Kingdom of the)",2018,407
+"Netherlands (Kingdom of the)",2019,371
+"Netherlands (Kingdom of the)",2020,383
+"Netherlands (Kingdom of the)",2021,466
+"Netherlands (Kingdom of the)",2022,399
+"Netherlands (Kingdom of the)",2023,413
+"Netherlands Antilles",2005,1
+"Netherlands Antilles",2006,1
+"Netherlands Antilles",2007,1
+"Netherlands Antilles",2008,2
+"Netherlands Antilles",2011,
+"Netherlands Antilles",2012,
+"Netherlands Antilles",2013,
+"Netherlands Antilles",2014,
+"Netherlands Antilles",2015,
+"Netherlands Antilles",2016,
+"Netherlands Antilles",2017,
+"Netherlands Antilles",2018,
+"Netherlands Antilles",2019,
+"Netherlands Antilles",2020,
+"Netherlands Antilles",2021,
+"Netherlands Antilles",2022,
+"Netherlands Antilles",2023,
+"New Caledonia",2002,1
+"New Caledonia",2003,1
+"New Caledonia",2004,1
+"New Caledonia",2005,2
+"New Caledonia",2006,1
+"New Caledonia",2007,2
+"New Caledonia",2008,3
+"New Caledonia",2009,3
+"New Caledonia",2010,2
+"New Caledonia",2011,2
+"New Caledonia",2012,3
+"New Caledonia",2013,3
+"New Caledonia",2014,3
+"New Caledonia",2015,2
+"New Zealand",2002,21
+"New Zealand",2003,24
+"New Zealand",2004,28
+"New Zealand",2005,32
+"New Zealand",2006,32
+"New Zealand",2007,53
+"New Zealand",2008,52
+"New Zealand",2009,40
+"New Zealand",2010,43
+"New Zealand",2011,50
+"New Zealand",2012,52
+"New Zealand",2013,51
+"New Zealand",2014,50
+"New Zealand",2015,57
+"New Zealand",2016,53
+"New Zealand",2017,60
+"New Zealand",2018,60
+"New Zealand",2019,60
+"New Zealand",2020,52
+"New Zealand",2021,69
+"New Zealand",2022,69
+"New Zealand",2023,129
+"Nicaragua",2002,2
+"Nicaragua",2003,1
+"Nicaragua",2004,1
+"Nicaragua",2005,2
+"Nicaragua",2006,3
+"Nicaragua",2007,2
+"Nicaragua",2008,2
+"Nicaragua",2009,2
+"Nicaragua",2010,2
+"Nicaragua",2011,2
+"Nicaragua",2012,3
+"Nicaragua",2013,4
+"Nicaragua",2014,4
+"Nicaragua",2015,3
+"Nicaragua",2016,3
+"Nicaragua",2017,3
+"Nicaragua",2018,2
+"Nicaragua",2019,3
+"Nicaragua",2020,3
+"Nicaragua",2021,4
+"Nicaragua",2022,6
+"Nicaragua",2023,3
+"Niger",2002,0
+"Niger",2003,0
+"Niger",2004,0
+"Niger",2005,0
+"Niger",2006,0
+"Niger",2007,0
+"Niger",2008,0
+"Niger",2009,1
+"Niger",2010,0
+"Niger",2011,1
+"Niger",2012,1
+"Niger",2013,1
+"Niger",2014,1
+"Niger",2015,0
+"Niger",2016,0
+"Niger",2017,1
+"Niger",2018,2
+"Niger",2019,1
+"Niger",2020,1
+"Niger",2021,1
+"Niger",2022,0
+"Niger",2023,1
+"Nigeria",2002,2
+"Nigeria",2003,3
+"Nigeria",2006,3
+"Nigeria",2007,7
+"Nigeria",2008,16
+"Nigeria",2009,35
+"Nigeria",2010,19
+"Nigeria",2011,24
+"Nigeria",2012,19
+"Nigeria",2013,17
+"Nigeria",2014,28
+"Nigeria",2015,18
+"Nigeria",2016,9
+"Nigeria",2017,8
+"Nigeria",2018,9
+"Nigeria",2019,23
+"Nigeria",2020,23
+"Nigeria",2021,20
+"Nigeria",2022,203
+"Nigeria",2023,113
+"North Macedonia",2002,1
+"North Macedonia",2003,1
+"North Macedonia",2004,1
+"North Macedonia",2005,1
+"North Macedonia",2006,1
+"North Macedonia",2007,3
+"North Macedonia",2008,3
+"North Macedonia",2009,2
+"North Macedonia",2010,12
+"North Macedonia",2011,14
+"North Macedonia",2012,9
+"North Macedonia",2013,4
+"North Macedonia",2014,2
+"North Macedonia",2015,1
+"North Macedonia",2016,1
+"North Macedonia",2017,1
+"North Macedonia",2018,1
+"North Macedonia",2019,1
+"North Macedonia",2020,1
+"North Macedonia",2021,2
+"North Macedonia",2022,1
+"North Macedonia",2023,2
+"Norway",2002,47
+"Norway",2003,53
+"Norway",2004,63
+"Norway",2005,79
+"Norway",2006,87
+"Norway",2007,131
+"Norway",2008,167
+"Norway",2009,133
+"Norway",2010,177
+"Norway",2011,168
+"Norway",2012,170
+"Norway",2013,163
+"Norway",2014,163
+"Norway",2015,146
+"Norway",2016,149
+"Norway",2017,162
+"Norway",2018,159
+"Norway",2019,156
+"Norway",2020,149
+"Norway",2021,200
+"Norway",2022,183
+"Norway",2023,305
+"Oman",2002,3
+"Oman",2003,0
+"Oman",2004,2
+"Oman",2005,5
+"Oman",2006,7
+"Oman",2007,4
+"Oman",2008,7
+"Oman",2009,3
+"Oman",2010,3
+"Oman",2011,8
+"Oman",2012,19
+"Oman",2013,10
+"Oman",2014,7
+"Oman",2015,7
+"Oman",2016,5
+"Oman",2017,5
+"Oman",2018,6
+"Oman",2019,4
+"Oman",2020,9
+"Oman",2021,5
+"Oman",2022,4
+"Oman",2023,13
+"Pakistan",2003,0
+"Pakistan",2004,1
+"Pakistan",2005,1
+"Pakistan",2006,1
+"Pakistan",2007,1
+"Pakistan",2008,83
+"Pakistan",2009,18
+"Pakistan",2010,58
+"Pakistan",2011,44
+"Pakistan",2012,57
+"Pakistan",2013,41
+"Pakistan",2014,99
+"Pakistan",2015,63
+"Pakistan",2016,46
+"Pakistan",2017,9
+"Pakistan",2018,12
+"Pakistan",2019,14
+"Pakistan",2020,10
+"Pakistan",2021,10
+"Pakistan",2022,2
+"Pakistan",2023,1
+"Palau",2007,0
+"Palau",2008,0
+"Palau",2009,0
+"Palau",2010,0
+"Palau",2011,0
+"Palau",2012,0
+"Palau",2013,0
+"Palau",2014,0
+"Palau",2015,0
+"Palau",2016,0
+"Palau",2017,0
+"Palau",2018,0
+"Panama",2002,3
+"Panama",2003,2
+"Panama",2004,3
+"Panama",2005,3
+"Panama",2006,12
+"Panama",2007,15
+"Panama",2008,38
+"Panama",2009,37
+"Panama",2010,45
+"Panama",2011,53
+"Panama",2012,71
+"Panama",2013,77
+"Panama",2014,62
+"Panama",2015,40
+"Panama",2016,40
+"Panama",2017,31
+"Panama",2018,35
+"Panama",2019,23
+"Panama",2020,17
+"Panama",2021,6
+"Panama",2022,10
+"Panama",2023,8
+"Papua New Guinea",2002,1
+"Papua New Guinea",2003,1
+"Papua New Guinea",2004,1
+"Papua New Guinea",2011,4
+"Papua New Guinea",2012,4
+"Papua New Guinea",2019,2
+"Papua New Guinea",2020,3
+"Papua New Guinea",2021,4
+"Paraguay",2002,1
+"Paraguay",2003,1
+"Paraguay",2004,1
+"Paraguay",2005,1
+"Paraguay",2006,2
+"Paraguay",2007,2
+"Paraguay",2008,3
+"Paraguay",2009,3
+"Paraguay",2010,5
+"Paraguay",2011,6
+"Paraguay",2012,6
+"Paraguay",2013,6
+"Paraguay",2014,6
+"Paraguay",2015,4
+"Paraguay",2016,3
+"Paraguay",2017,4
+"Paraguay",2018,5
+"Paraguay",2019,5
+"Paraguay",2020,2
+"Paraguay",2021,3
+"Paraguay",2022,4
+"Paraguay",2023,4
+"Peru",2002,5
+"Peru",2003,5
+"Peru",2004,6
+"Peru",2005,7
+"Peru",2006,9
+"Peru",2007,9
+"Peru",2008,17
+"Peru",2009,16
+"Peru",2010,29
+"Peru",2011,24
+"Peru",2012,37
+"Peru",2013,40
+"Peru",2014,28
+"Peru",2015,34
+"Peru",2016,24
+"Peru",2017,26
+"Peru",2018,44
+"Peru",2019,29
+"Peru",2020,23
+"Peru",2021,26
+"Peru",2022,34
+"Peru",2023,28
+"Philippines",2002,6
+"Philippines",2003,5
+"Philippines",2004,7
+"Philippines",2005,6
+"Philippines",2006,7
+"Philippines",2007,9
+"Philippines",2008,9
+"Philippines",2009,12
+"Philippines",2010,14
+"Philippines",2011,17
+"Philippines",2012,16
+"Philippines",2013,17
+"Philippines",2014,18
+"Philippines",2015,23
+"Philippines",2016,30
+"Philippines",2017,244
+"Philippines",2018,265
+"Philippines",2019,177
+"Philippines",2020,31
+"Philippines",2021,41
+"Philippines",2022,32
+"Philippines",2023,41
+"Poland",2002,27
+"Poland",2003,30
+"Poland",2004,42
+"Poland",2005,40
+"Poland",2006,45
+"Poland",2007,89
+"Poland",2008,109
+"Poland",2009,72
+"Poland",2010,79
+"Poland",2011,98
+"Poland",2012,75
+"Poland",2013,78
+"Poland",2014,101
+"Poland",2015,84
+"Poland",2016,70
+"Poland",2017,83
+"Poland",2018,117
+"Poland",2019,102
+"Poland",2020,149
+"Poland",2021,194
+"Poland",2022,149
+"Poland",2023,137
+"Portugal",2002,20
+"Portugal",2003,19
+"Portugal",2004,23
+"Portugal",2005,82
+"Portugal",2006,87
+"Portugal",2007,143
+"Portugal",2008,169
+"Portugal",2009,77
+"Portugal",2010,71
+"Portugal",2011,61
+"Portugal",2012,44
+"Portugal",2013,46
+"Portugal",2014,49
+"Portugal",2015,50
+"Portugal",2016,57
+"Portugal",2017,58
+"Portugal",2018,83
+"Portugal",2019,72
+"Portugal",2020,66
+"Portugal",2021,99
+"Portugal",2022,93
+"Portugal",2023,80
+"Qatar",2002,2
+"Qatar",2003,0
+"Qatar",2004,1
+"Qatar",2005,3
+"Qatar",2006,7
+"Qatar",2007,8
+"Qatar",2008,27
+"Qatar",2010,30
+"Qatar",2012,74
+"Qatar",2013,94
+"Qatar",2014,178
+"Qatar",2015,92
+"Qatar",2016,328
+"Qatar",2017,47
+"Qatar",2018,81
+"Qatar",2019,64
+"Qatar",2020,56
+"Qatar",2021,48
+"Qatar",2022,20
+"Qatar",2023,51
+"Republic of Korea",2002,197
+"Republic of Korea",2003,205
+"Republic of Korea",2004,207
+"Republic of Korea",2005,239
+"Republic of Korea",2006,385
+"Republic of Korea",2007,1041
+"Republic of Korea",2008,957
+"Republic of Korea",2009,383
+"Republic of Korea",2010,367
+"Republic of Korea",2011,368
+"Republic of Korea",2012,387
+"Republic of Korea",2013,362
+"Republic of Korea",2014,367
+"Republic of Korea",2015,400
+"Republic of Korea",2016,553
+"Republic of Korea",2017,587
+"Republic of Korea",2018,677
+"Republic of Korea",2019,585
+"Republic of Korea",2020,511
+"Republic of Korea",2021,922
+"Republic of Korea",2022,1083
+"Republic of Korea",2023,731
+"Republic of Moldova",2002,0
+"Republic of Moldova",2003,0
+"Republic of Moldova",2004,0
+"Republic of Moldova",2005,0
+"Republic of Moldova",2006,0
+"Republic of Moldova",2007,1
+"Republic of Moldova",2008,1
+"Republic of Moldova",2009,1
+"Republic of Moldova",2010,1
+"Republic of Moldova",2011,1
+"Republic of Moldova",2012,1
+"Republic of Moldova",2013,1
+"Republic of Moldova",2014,1
+"Republic of Moldova",2015,1
+"Republic of Moldova",2016,1
+"Republic of Moldova",2017,1
+"Republic of Moldova",2018,1
+"Republic of Moldova",2019,1
+"Republic of Moldova",2020,2
+"Republic of Moldova",2021,2
+"Republic of Moldova",2022,2
+"Republic of Moldova",2023,2
+"Romania",2002,4
+"Romania",2003,5
+"Romania",2004,6
+"Romania",2005,9
+"Romania",2006,12
+"Romania",2007,36
+"Romania",2008,36
+"Romania",2009,25
+"Romania",2010,28
+"Romania",2011,31
+"Romania",2012,24
+"Romania",2013,26
+"Romania",2014,28
+"Romania",2015,24
+"Romania",2016,26
+"Romania",2017,25
+"Romania",2018,32
+"Romania",2019,34
+"Romania",2020,33
+"Romania",2021,43
+"Romania",2022,49
+"Romania",2023,39
+"Russian Federation",2002,27
+"Russian Federation",2003,77
+"Russian Federation",2004,73
+"Russian Federation",2005,74
+"Russian Federation",2006,91
+"Russian Federation",2007,158
+"Russian Federation",2008,157
+"Russian Federation",2009,114
+"Russian Federation",2010,113
+"Russian Federation",2011,126
+"Russian Federation",2012,134
+"Russian Federation",2013,140
+"Russian Federation",2014,131
+"Russian Federation",2015,87
+"Russian Federation",2016,69
+"Russian Federation",2017,96
+"Russian Federation",2018,130
+"Russian Federation",2019,174
+"Russian Federation",2020,150
+"Russian Federation",2021,188
+"Rwanda",2002,0
+"Rwanda",2003,1
+"Rwanda",2004,0
+"Rwanda",2005,1
+"Rwanda",2006,0
+"Rwanda",2007,0
+"Rwanda",2008,0
+"Rwanda",2009,1
+"Rwanda",2010,2
+"Rwanda",2011,1
+"Rwanda",2012,2
+"Rwanda",2013,4
+"Rwanda",2014,12
+"Rwanda",2015,6
+"Rwanda",2016,11
+"Rwanda",2017,11
+"Rwanda",2018,8
+"Rwanda",2019,7
+"Rwanda",2020,11
+"Rwanda",2021,12
+"Rwanda",2022,11
+"Saint Kitts and Nevis",2002,0
+"Saint Kitts and Nevis",2003,0
+"Saint Kitts and Nevis",2004,0
+"Saint Kitts and Nevis",2005,0
+"Saint Kitts and Nevis",2006,0
+"Saint Kitts and Nevis",2007,0
+"Saint Kitts and Nevis",2008,0
+"Saint Kitts and Nevis",2009,0
+"Saint Kitts and Nevis",2010,0
+"Saint Kitts and Nevis",2011,0
+"Saint Kitts and Nevis",2012,0
+"Saint Kitts and Nevis",2013,0
+"Saint Kitts and Nevis",2014,0
+"Saint Kitts and Nevis",2015,0
+"Saint Kitts and Nevis",2016,0
+"Saint Kitts and Nevis",2017,0
+"Saint Lucia",2002,0
+"Saint Lucia",2003,0
+"Saint Lucia",2004,0
+"Saint Lucia",2005,0
+"Saint Lucia",2006,1
+"Saint Lucia",2007,1
+"Saint Lucia",2008,0
+"Saint Lucia",2009,1
+"Saint Lucia",2010,1
+"Saint Lucia",2011,1
+"Saint Lucia",2012,1
+"Saint Lucia",2013,0
+"Saint Lucia",2014,0
+"Saint Lucia",2015,1
+"Saint Lucia",2016,1
+"Saint Lucia",2017,1
+"Saint Lucia",2018,0
+"Saint Lucia",2019,2
+"Saint Lucia",2020,6
+"Saint Vincent and the Grenadines",2002,0
+"Saint Vincent and the Grenadines",2003,0
+"Saint Vincent and the Grenadines",2004,0
+"Saint Vincent and the Grenadines",2005,0
+"Saint Vincent and the Grenadines",2006,0
+"Saint Vincent and the Grenadines",2007,0
+"Saint Vincent and the Grenadines",2008,0
+"Saint Vincent and the Grenadines",2009,1
+"Saint Vincent and the Grenadines",2010,0
+"Saint Vincent and the Grenadines",2011,0
+"Saint Vincent and the Grenadines",2012,0
+"Saint Vincent and the Grenadines",2013,0
+"Saint Vincent and the Grenadines",2014,0
+"Saint Vincent and the Grenadines",2015,0
+"Saint Vincent and the Grenadines",2016,0
+"Saint Vincent and the Grenadines",2017,0
+"Saint Vincent and the Grenadines",2018,1
+"Saint Vincent and the Grenadines",2019,0
+"Saint Vincent and the Grenadines",2020,1
+"Saint Vincent and the Grenadines",2021,1
+"Saint Vincent and the Grenadines",2022,0
+"Saint Vincent and the Grenadines",2023,0
+"Samoa",2002,0
+"Samoa",2003,0
+"Samoa",2004,0
+"Samoa",2005,0
+"Samoa",2006,0
+"Samoa",2007,0
+"Samoa",2008,0
+"Samoa",2009,0
+"Samoa",2010,0
+"Samoa",2011,0
+"Samoa",2012,1
+"Samoa",2013,0
+"Samoa",2014,0
+"Samoa",2015,0
+"Samoa",2016,0
+"Samoa",2017,0
+"Samoa",2018,0
+"Samoa",2019,0
+"Samoa",2021,0
+"Samoa",2022,0
+"Samoa",2023,0
+"Sao Tome and Principe",2002,0
+"Sao Tome and Principe",2003,0
+"Sao Tome and Principe",2004,0
+"Sao Tome and Principe",2005,0
+"Sao Tome and Principe",2006,0
+"Sao Tome and Principe",2007,0
+"Sao Tome and Principe",2008,0
+"Sao Tome and Principe",2009,0
+"Sao Tome and Principe",2010,0
+"Sao Tome and Principe",2011,2
+"Sao Tome and Principe",2012,0
+"Sao Tome and Principe",2013,0
+"Sao Tome and Principe",2014,0
+"Sao Tome and Principe",2015,0
+"Sao Tome and Principe",2016,0
+"Sao Tome and Principe",2017,0
+"Sao Tome and Principe",2018,0
+"Sao Tome and Principe",2019,0
+"Sao Tome and Principe",2020,0
+"Sao Tome and Principe",2021,0
+"Sao Tome and Principe",2022,0
+"Sao Tome and Principe",2023,0
+"Saudi Arabia",2002,8
+"Saudi Arabia",2003,9
+"Saudi Arabia",2004,11
+"Saudi Arabia",2005,17
+"Saudi Arabia",2006,24
+"Saudi Arabia",2007,81
+"Saudi Arabia",2008,77
+"Saudi Arabia",2009,126
+"Saudi Arabia",2010,93
+"Saudi Arabia",2011,156
+"Saudi Arabia",2012,176
+"Saudi Arabia",2013,57
+"Saudi Arabia",2014,50
+"Saudi Arabia",2015,30
+"Saudi Arabia",2016,24
+"Saudi Arabia",2017,23
+"Saudi Arabia",2018,27
+"Saudi Arabia",2019,34
+"Saudi Arabia",2020,25
+"Saudi Arabia",2021,52
+"Saudi Arabia",2022,42
+"Saudi Arabia",2023,371
+"Senegal",2002,0
+"Senegal",2003,0
+"Senegal",2004,1
+"Senegal",2005,0
+"Senegal",2006,1
+"Senegal",2007,1
+"Senegal",2008,4
+"Senegal",2009,3
+"Senegal",2010,5
+"Senegal",2011,6
+"Senegal",2012,3
+"Senegal",2013,5
+"Senegal",2014,5
+"Senegal",2015,4
+"Senegal",2016,7
+"Senegal",2017,6
+"Senegal",2018,3
+"Senegal",2019,4
+"Senegal",2020,6
+"Senegal",2021,6
+"Senegal",2022,3
+"Senegal",2023,5
+"Serbia",2002,
+"Serbia",2003,
+"Serbia",2004,
+"Serbia",2005,
+"Serbia",2006,
+"Serbia",2007,
+"Serbia",2008,14
+"Serbia",2009,7
+"Serbia",2010,9
+"Serbia",2011,7
+"Serbia",2012,8
+"Serbia",2013,9
+"Serbia",2014,9
+"Serbia",2015,7
+"Serbia",2016,24
+"Serbia",2017,7
+"Serbia",2018,9
+"Serbia",2019,8
+"Serbia",2020,9
+"Serbia",2021,10
+"Serbia",2022,11
+"Serbia",2023,10
+"Serbia and Montenegro",2002,2
+"Serbia and Montenegro",2004,7
+"Serbia and Montenegro",2006,6
+"Serbia and Montenegro",2007,32
+"Serbia and Montenegro",2008,
+"Serbia and Montenegro",2009,
+"Serbia and Montenegro",2010,
+"Serbia and Montenegro",2011,
+"Serbia and Montenegro",2012,
+"Serbia and Montenegro",2013,
+"Serbia and Montenegro",2014,
+"Serbia and Montenegro",2015,
+"Serbia and Montenegro",2016,
+"Serbia and Montenegro",2017,
+"Serbia and Montenegro",2018,
+"Serbia and Montenegro",2019,
+"Serbia and Montenegro",2020,
+"Serbia and Montenegro",2021,
+"Serbia and Montenegro",2022,
+"Serbia and Montenegro",2023,
+"Seychelles",2002,0
+"Seychelles",2003,0
+"Seychelles",2004,0
+"Seychelles",2005,0
+"Seychelles",2006,1
+"Seychelles",2007,1
+"Seychelles",2008,1
+"Seychelles",2009,2
+"Seychelles",2010,4
+"Seychelles",2011,2
+"Seychelles",2012,5
+"Seychelles",2013,2
+"Seychelles",2014,3
+"Seychelles",2015,2
+"Seychelles",2016,1
+"Seychelles",2017,1
+"Seychelles",2018,1
+"Seychelles",2019,1
+"Seychelles",2020,1
+"Seychelles",2021,2
+"Seychelles",2022,1
+"Seychelles",2023,1
+"Sierra Leone",2002,0
+"Sierra Leone",2014,1
+"Sierra Leone",2015,0
+"Sierra Leone",2016,0
+"Sierra Leone",2017,0
+"Sierra Leone",2018,1
+"Singapore",2002,80
+"Singapore",2003,89
+"Singapore",2004,138
+"Singapore",2005,109
+"Singapore",2006,176
+"Singapore",2007,382
+"Singapore",2008,664
+"Singapore",2009,354
+"Singapore",2010,382
+"Singapore",2011,459
+"Singapore",2012,420
+"Singapore",2013,500
+"Singapore",2014,433
+"Singapore",2015,485
+"Singapore",2016,622
+"Singapore",2017,882
+"Singapore",2018,486
+"Singapore",2019,509
+"Singapore",2020,460
+"Singapore",2021,938
+"Singapore",2022,1225
+"Singapore",2023,1056
+"Slovakia",2002,6
+"Slovakia",2003,6
+"Slovakia",2004,7
+"Slovakia",2005,7
+"Slovakia",2006,9
+"Slovakia",2007,35
+"Slovakia",2008,38
+"Slovakia",2009,35
+"Slovakia",2010,76
+"Slovakia",2011,76
+"Slovakia",2012,60
+"Slovakia",2013,52
+"Slovakia",2014,42
+"Slovakia",2015,35
+"Slovakia",2016,44
+"Slovakia",2017,34
+"Slovakia",2018,37
+"Slovakia",2019,37
+"Slovakia",2020,65
+"Slovakia",2021,62
+"Slovakia",2022,43
+"Slovakia",2023,41
+"Slovenia",2002,7
+"Slovenia",2003,7
+"Slovenia",2004,7
+"Slovenia",2005,8
+"Slovenia",2006,9
+"Slovenia",2007,14
+"Slovenia",2008,16
+"Slovenia",2009,14
+"Slovenia",2010,13
+"Slovenia",2011,13
+"Slovenia",2012,10
+"Slovenia",2013,13
+"Slovenia",2014,16
+"Slovenia",2015,14
+"Slovenia",2016,17
+"Slovenia",2017,14
+"Slovenia",2018,16
+"Slovenia",2019,17
+"Slovenia",2020,17
+"Slovenia",2021,21
+"Slovenia",2022,21
+"Slovenia",2023,20
+"Solomon Islands",2009,0
+"Solomon Islands",2011,0
+"Solomon Islands",2012,0
+"Solomon Islands",2013,0
+"Solomon Islands",2014,0
+"Solomon Islands",2015,0
+"Solomon Islands",2016,0
+"Solomon Islands",2017,0
+"Solomon Islands",2018,0
+"South Africa",2002,37
+"South Africa",2003,40
+"South Africa",2004,59
+"South Africa",2005,51
+"South Africa",2006,220
+"South Africa",2007,142
+"South Africa",2008,132
+"South Africa",2009,74
+"South Africa",2010,90
+"South Africa",2011,97
+"South Africa",2012,82
+"South Africa",2013,88
+"South Africa",2014,104
+"South Africa",2015,72
+"South Africa",2016,79
+"South Africa",2017,79
+"South Africa",2018,104
+"South Africa",2019,77
+"South Africa",2020,40
+"South Africa",2021,79
+"South Africa",2022,67
+"South Africa",2023,78
+"Spain",2002,165
+"Spain",2003,163
+"Spain",2004,188
+"Spain",2005,346
+"Spain",2006,255
+"Spain",2007,681
+"Spain",2008,588
+"Spain",2009,428
+"Spain",2010,372
+"Spain",2011,350
+"Spain",2012,244
+"Spain",2013,202
+"Spain",2014,242
+"Spain",2015,243
+"Spain",2016,290
+"Spain",2017,297
+"Spain",2018,314
+"Spain",2019,317
+"Spain",2020,300
+"Spain",2021,376
+"Spain",2022,351
+"Spain",2023,340
+"Sri Lanka",2002,1
+"Sri Lanka",2003,2
+"Sri Lanka",2004,2
+"Sri Lanka",2005,2
+"Sri Lanka",2006,2
+"Sri Lanka",2007,3
+"Sri Lanka",2008,51
+"Sri Lanka",2009,27
+"Sri Lanka",2010,5
+"Sri Lanka",2011,6
+"Sri Lanka",2012,5
+"Sri Lanka",2013,6
+"Sri Lanka",2014,10
+"Sri Lanka",2015,11
+"Sri Lanka",2016,14
+"Sri Lanka",2017,12
+"Sri Lanka",2019,12
+"Sri Lanka",2020,8
+"Sri Lanka",2021,7
+"Sri Lanka",2022,6
+"Sri Lanka",2023,4
+"State of Palestine",2007,1
+"State of Palestine",2008,1
+"State of Palestine",2009,2
+"State of Palestine",2010,2
+"State of Palestine",2011,1
+"State of Palestine",2012,1
+"State of Palestine",2013,1
+"State of Palestine",2014,1
+"State of Palestine",2015,1
+"State of Palestine",2016,2
+"State of Palestine",2017,1
+"State of Palestine",2018,2
+"State of Palestine",2019,1
+"State of Palestine",2020,1
+"State of Palestine",2021,1
+"State of Palestine",2022,1
+"State of Palestine",2023,2
+"Sudan",2002,
+"Sudan",2003,
+"Sudan",2004,
+"Sudan",2005,
+"Sudan",2006,
+"Sudan",2007,
+"Sudan",2008,
+"Sudan",2009,
+"Sudan",2010,
+"Sudan",2011,
+"Sudan",2012,1
+"Sudan",2013,1
+"Sudan",2014,1
+"Sudan",2015,0
+"Sudan",2016,0
+"Sudan",2017,1
+"Sudan",2018,1
+"Sudan (...2011)",2002,0
+"Sudan (...2011)",2003,0
+"Sudan (...2011)",2004,0
+"Sudan (...2011)",2005,0
+"Sudan (...2011)",2006,1
+"Sudan (...2011)",2007,2
+"Sudan (...2011)",2008,4
+"Sudan (...2011)",2009,2
+"Sudan (...2011)",2010,2
+"Sudan (...2011)",2011,2
+"Sudan (...2011)",2012,
+"Sudan (...2011)",2013,
+"Sudan (...2011)",2014,
+"Sudan (...2011)",2015,
+"Sudan (...2011)",2016,
+"Sudan (...2011)",2017,
+"Sudan (...2011)",2018,
+"Sudan (...2011)",2019,
+"Sudan (...2011)",2020,
+"Sudan (...2011)",2021,
+"Sudan (...2011)",2022,
+"Sudan (...2011)",2023,
+"Suriname",2002,0
+"Suriname",2003,0
+"Suriname",2004,0
+"Suriname",2005,0
+"Suriname",2006,1
+"Suriname",2007,0
+"Suriname",2008,0
+"Suriname",2009,0
+"Suriname",2010,0
+"Suriname",2011,1
+"Suriname",2012,0
+"Suriname",2013,0
+"Suriname",2014,0
+"Suriname",2015,0
+"Suriname",2016,0
+"Suriname",2017,1
+"Suriname",2018,0
+"Suriname",2019,0
+"Suriname",2020,0
+"Suriname",2021,0
+"Suriname",2022,0
+"Suriname",2023,0
+"Sweden",2002,79
+"Sweden",2003,80
+"Sweden",2004,83
+"Sweden",2005,87
+"Sweden",2006,100
+"Sweden",2007,150
+"Sweden",2008,156
+"Sweden",2009,115
+"Sweden",2010,114
+"Sweden",2011,130
+"Sweden",2012,119
+"Sweden",2013,124
+"Sweden",2014,136
+"Sweden",2015,110
+"Sweden",2016,109
+"Sweden",2017,128
+"Sweden",2018,106
+"Sweden",2019,149
+"Sweden",2020,168
+"Sweden",2021,196
+"Sweden",2022,184
+"Sweden",2023,117
+"Switzerland",2002,734
+"Switzerland",2003,894
+"Switzerland",2004,1031
+"Switzerland",2005,1532
+"Switzerland",2006,1198
+"Switzerland",2007,1917
+"Switzerland",2008,1696
+"Switzerland",2009,1225
+"Switzerland",2010,1596
+"Switzerland",2011,1619
+"Switzerland",2012,1628
+"Switzerland",2013,2092
+"Switzerland",2014,1816
+"Switzerland",2015,2258
+"Switzerland",2016,2139
+"Switzerland",2017,2029
+"Switzerland",2018,2564
+"Switzerland",2019,2576
+"Switzerland",2020,1931
+"Switzerland",2021,1906
+"Switzerland",2022,1524
+"Switzerland",2023,1646
+"Syrian Arab Republic",2003,1
+"Syrian Arab Republic",2004,4
+"Syrian Arab Republic",2005,0
+"Syrian Arab Republic",2006,1
+"Syrian Arab Republic",2007,0
+"Syrian Arab Republic",2008,0
+"Syrian Arab Republic",2009,1
+"Syrian Arab Republic",2010,2
+"Tajikistan",2016,1
+"Tajikistan",2017,0
+"Tajikistan",2018,1
+"Tajikistan",2019,0
+"Tajikistan",2020,0
+"Tajikistan",2021,1
+"Tajikistan",2022,41
+"Thailand",2002,20
+"Thailand",2003,24
+"Thailand",2004,27
+"Thailand",2005,30
+"Thailand",2006,30
+"Thailand",2007,818
+"Thailand",2008,700
+"Thailand",2009,499
+"Thailand",2010,104
+"Thailand",2011,151
+"Thailand",2012,131
+"Thailand",2013,105
+"Thailand",2014,106
+"Thailand",2015,100
+"Thailand",2016,86
+"Thailand",2017,96
+"Thailand",2018,120
+"Thailand",2019,117
+"Thailand",2020,97
+"Thailand",2021,142
+"Thailand",2022,158
+"Thailand",2023,143
+"Timor-Leste",2002,
+"Timor-Leste",2004,0
+"Timor-Leste",2005,0
+"Timor-Leste",2013,1
+"Timor-Leste",2017,1
+"Timor-Leste",2018,1
+"Timor-Leste",2019,0
+"Timor-Leste",2020,0
+"Timor-Leste",2021,0
+"Timor-Leste",2022,1
+"Togo",2002,0
+"Togo",2003,0
+"Togo",2004,0
+"Togo",2005,0
+"Togo",2007,0
+"Togo",2008,1
+"Togo",2009,1
+"Togo",2010,0
+"Togo",2011,0
+"Togo",2012,0
+"Togo",2013,0
+"Togo",2014,0
+"Togo",2015,0
+"Togo",2016,1
+"Togo",2017,1
+"Togo",2018,1
+"Togo",2019,0
+"Togo",2020,0
+"Togo",2021,1
+"Togo",2022,0
+"Togo",2023,1
+"Tonga",2002,0
+"Tonga",2003,0
+"Tonga",2004,0
+"Tonga",2005,0
+"Tonga",2006,0
+"Tonga",2007,0
+"Tonga",2008,1
+"Tonga",2009,0
+"Tonga",2010,0
+"Tonga",2011,0
+"Tonga",2012,0
+"Tonga",2013,0
+"Tonga",2014,0
+"Trinidad and Tobago",2002,1
+"Trinidad and Tobago",2003,1
+"Trinidad and Tobago",2004,1
+"Trinidad and Tobago",2005,2
+"Trinidad and Tobago",2006,2
+"Trinidad and Tobago",2007,2
+"Trinidad and Tobago",2008,2
+"Trinidad and Tobago",2009,2
+"Trinidad and Tobago",2010,2
+"Trinidad and Tobago",2011,2
+"Trinidad and Tobago",2012,3
+"Trinidad and Tobago",2013,3
+"Trinidad and Tobago",2014,2
+"Trinidad and Tobago",2015,2
+"Trinidad and Tobago",2016,3
+"Trinidad and Tobago",2017,2
+"Trinidad and Tobago",2018,3
+"Trinidad and Tobago",2019,2
+"Trinidad and Tobago",2020,1
+"Trinidad and Tobago",2021,2
+"Trinidad and Tobago",2022,4
+"Tunisia",2002,2
+"Tunisia",2003,1
+"Tunisia",2004,2
+"Tunisia",2005,3
+"Tunisia",2006,2
+"Tunisia",2007,3
+"Tunisia",2008,8
+"Tunisia",2009,6
+"Tunisia",2010,6
+"Tunisia",2011,10
+"Tunisia",2012,7
+"Tunisia",2013,7
+"Tunisia",2014,7
+"Tunisia",2015,10
+"Tunisia",2016,7
+"Tunisia",2017,9
+"Tunisia",2018,9
+"Tunisia",2019,7
+"Tunisia",2020,7
+"Tunisia",2021,9
+"Tunisia",2022,9
+"Tunisia",2023,16
+"Turkiye",2002,17
+"Turkiye",2003,19
+"Turkiye",2004,22
+"Turkiye",2005,28
+"Turkiye",2006,34
+"Turkiye",2007,89
+"Turkiye",2008,63
+"Turkiye",2009,50
+"Turkiye",2010,68
+"Turkiye",2011,81
+"Turkiye",2012,81
+"Turkiye",2013,96
+"Turkiye",2014,95
+"Turkiye",2015,75
+"Turkiye",2016,79
+"Turkiye",2017,77
+"Turkiye",2018,67
+"Turkiye",2019,50
+"Turkiye",2020,46
+"Turkiye",2021,54
+"Turkiye",2022,67
+"Turkiye",2023,91
+"Turks and Caicos Islands",2011,0
+"Turks and Caicos Islands",2012,0
+"Tuvalu",2008,0
+"Uganda",2002,0
+"Uganda",2003,0
+"Uganda",2004,0
+"Uganda",2005,0
+"Uganda",2006,1
+"Uganda",2007,1
+"Uganda",2008,3
+"Uganda",2009,1
+"Uganda",2010,2
+"Uganda",2011,1
+"Uganda",2012,2
+"Uganda",2013,9
+"Uganda",2014,4
+"Uganda",2015,4
+"Uganda",2016,4
+"Uganda",2017,3
+"Uganda",2018,3
+"Uganda",2019,8
+"Uganda",2020,4
+"Uganda",2021,2
+"Uganda",2022,2
+"Uganda",2023,2
+"Ukraine",2002,3
+"Ukraine",2003,4
+"Ukraine",2004,5
+"Ukraine",2005,6
+"Ukraine",2006,9
+"Ukraine",2007,8
+"Ukraine",2008,17
+"Ukraine",2009,9
+"Ukraine",2010,12
+"Ukraine",2011,36
+"Ukraine",2012,19
+"Ukraine",2013,33
+"Ukraine",2014,17
+"Ukraine",2015,6
+"Ukraine",2016,7
+"Ukraine",2017,8
+"Ukraine",2018,12
+"Ukraine",2019,13
+"Ukraine",2020,17
+"Ukraine",2021,18
+"Ukraine",2022,9
+"Ukraine",2023,13
+"United Arab Emirates",2005,30
+"United Arab Emirates",2007,59
+"United Arab Emirates",2008,148
+"United Arab Emirates",2012,204
+"United Arab Emirates",2013,101
+"United Arab Emirates",2014,149
+"United Arab Emirates",2015,114
+"United Arab Emirates",2016,133
+"United Arab Emirates",2017,727
+"United Arab Emirates",2018,1308
+"United Arab Emirates",2019,2025
+"United Arab Emirates",2020,509
+"United Arab Emirates",2021,976
+"United Arab Emirates",2022,319
+"United Arab Emirates",2023,427
+"United Kingdom",2002,3052
+"United Kingdom",2003,2509
+"United Kingdom",2004,3089
+"United Kingdom",2005,3306
+"United Kingdom",2006,4473
+"United Kingdom",2007,6431
+"United Kingdom",2008,5738
+"United Kingdom",2009,3619
+"United Kingdom",2010,5161
+"United Kingdom",2011,7066
+"United Kingdom",2012,7173
+"United Kingdom",2013,5017
+"United Kingdom",2014,4970
+"United Kingdom",2015,5383
+"United Kingdom",2016,3140
+"United Kingdom",2017,2663
+"United Kingdom",2018,3084
+"United Kingdom",2019,3040
+"United Kingdom",2020,2306
+"United Kingdom",2021,2064
+"United Kingdom",2022,2273
+"United Kingdom",2023,1915
+"United Republic of Tanzania",2002,1
+"United Republic of Tanzania",2003,1
+"United Republic of Tanzania",2004,0
+"United Republic of Tanzania",2005,1
+"United Republic of Tanzania",2006,1
+"United Republic of Tanzania",2007,1
+"United Republic of Tanzania",2008,2
+"United Republic of Tanzania",2009,3
+"United Republic of Tanzania",2010,2
+"United Republic of Tanzania",2011,4
+"United Republic of Tanzania",2012,2
+"United Republic of Tanzania",2013,2
+"United Republic of Tanzania",2014,3
+"United Republic of Tanzania",2015,40
+"United Republic of Tanzania",2016,3
+"United Republic of Tanzania",2017,3
+"United Republic of Tanzania",2018,6
+"United Republic of Tanzania",2019,4
+"United Republic of Tanzania",2020,5
+"United Republic of Tanzania",2021,4
+"United Republic of Tanzania",2022,3
+"United Republic of Tanzania",2023,2
+"United States",2002,5438
+"United States",2003,4772
+"United States",2004,5749
+"United States",2005,5901
+"United States",2006,6920
+"United States",2007,9144
+"United States",2008,8032
+"United States",2009,5573
+"United States",2010,6952
+"United States",2011,7547
+"United States",2012,8143
+"United States",2013,9319
+"United States",2014,9403
+"United States",2015,11980
+"United States",2016,10013
+"United States",2017,10837
+"United States",2018,12242
+"United States",2019,11919
+"United States",2020,6247
+"United States",2021,9771
+"United States",2022,8995
+"United States",2023,8625
+"Uruguay",2002,1
+"Uruguay",2003,1
+"Uruguay",2004,1
+"Uruguay",2005,2
+"Uruguay",2006,2
+"Uruguay",2007,4
+"Uruguay",2008,4
+"Uruguay",2009,4
+"Uruguay",2010,8
+"Uruguay",2011,7
+"Uruguay",2012,8
+"Uruguay",2013,7
+"Uruguay",2014,9
+"Uruguay",2015,7
+"Uruguay",2016,6
+"Uruguay",2017,6
+"Uruguay",2018,8
+"Uruguay",2019,5
+"Uruguay",2020,4
+"Uruguay",2021,5
+"Uruguay",2022,10
+"Uruguay",2023,5
+"Uzbekistan",2017,2
+"Uzbekistan",2018,2
+"Uzbekistan",2019,5
+"Uzbekistan",2020,5
+"Uzbekistan",2021,4
+"Uzbekistan",2022,4
+"Uzbekistan",2023,5
+"Vanuatu",2006,0
+"Vanuatu",2007,0
+"Vanuatu",2009,0
+"Vanuatu",2010,0
+"Vanuatu",2011,0
+"Venezuela (Bolivarian Rep. of)",2002,7
+"Venezuela (Bolivarian Rep. of)",2003,3
+"Venezuela (Bolivarian Rep. of)",2004,5
+"Venezuela (Bolivarian Rep. of)",2005,50
+"Venezuela (Bolivarian Rep. of)",2006,9
+"Venezuela (Bolivarian Rep. of)",2007,16
+"Venezuela (Bolivarian Rep. of)",2008,26
+"Venezuela (Bolivarian Rep. of)",2009,29
+"Venezuela (Bolivarian Rep. of)",2010,27
+"Venezuela (Bolivarian Rep. of)",2011,31
+"Venezuela (Bolivarian Rep. of)",2012,99
+"Venezuela (Bolivarian Rep. of)",2013,11
+"Viet Nam",2002,8
+"Viet Nam",2003,8
+"Viet Nam",2004,9
+"Viet Nam",2005,10
+"Viet Nam",2006,12
+"Viet Nam",2007,17
+"Viet Nam",2008,31
+"Viet Nam",2009,30
+"Viet Nam",2010,60
+"Viet Nam",2011,32
+"Viet Nam",2012,34
+"Viet Nam",2013,30
+"Viet Nam",2014,27
+"Viet Nam",2015,33
+"Viet Nam",2016,47
+"Viet Nam",2017,35
+"Viet Nam",2018,38
+"Viet Nam",2019,49
+"Viet Nam",2020,45
+"Viet Nam",2021,41
+"Viet Nam",2022,41
+"Wallis and Futuna Islands",2002,0
+"Wallis and Futuna Islands",2003,0
+"Wallis and Futuna Islands",2004,0
+"Wallis and Futuna Islands",2005,0
+"Wallis and Futuna Islands",2006,0
+"Yemen",2004,2
+"Yemen",2005,0
+"Yemen",2006,0
+"Yemen",2007,2
+"Yemen",2008,1
+"Yemen",2009,3
+"Yemen",2010,2
+"Yemen",2011,3
+"Yemen",2012,2
+"Yemen",2013,3
+"Yemen",2014,2
+"Yemen",2015,2
+"Yemen",2018,0
+"Yemen",2019,1
+"Zambia",2002,1
+"Zambia",2003,1
+"Zambia",2004,0
+"Zambia",2005,0
+"Zambia",2006,0
+"Zambia",2007,0
+"Zambia",2008,1
+"Zambia",2009,1
+"Zambia",2010,1
+"Zambia",2011,1
+"Zambia",2012,2
+"Zambia",2013,2
+"Zambia",2014,2
+"Zambia",2015,5
+"Zambia",2016,4
+"Zambia",2017,2
+"Zambia",2018,9
+"Zambia",2019,2
+"Zambia",2020,2
+"Zambia",2021,2
+"Zambia",2022,3
+"Zambia",2023,2
+"Zimbabwe",2002,0
+"Zimbabwe",2003,0
+"Zimbabwe",2004,1
+"Zimbabwe",2005,1
+"Zimbabwe",2006,0
+"Zimbabwe",2007,0
+"Zimbabwe",2008,3
+"Zimbabwe",2009,2
+"Zimbabwe",2010,24
+"Zimbabwe",2011,4
+"Zimbabwe",2012,5
+"Zimbabwe",2013,2
+"Zimbabwe",2014,2
+"Zimbabwe",2015,2
+"Zimbabwe",2016,1
+"Zimbabwe",2017,1
+"Zimbabwe",2018,2
+"Zimbabwe",2019,2
+"Zimbabwe",2020,2
+"Zimbabwe",2021,2
+"Zimbabwe",2022,1
+"Zimbabwe",2023,1
+"Special economies",2002,
+"Special economies",2003,
+"Special economies",2004,
+"Special economies",2005,
+"Special economies",2006,
+"Special economies",2007,
+"Special economies",2008,
+"Special economies",2009,
+"Special economies",2010,
+"Special economies",2011,
+"Special economies",2012,
+"Special economies",2013,
+"Special economies",2014,
+"Special economies",2015,
+"Special economies",2016,
+"Special economies",2017,
+"Special economies",2018,
+"Special economies",2019,
+"Special economies",2020,
+"Special economies",2021,
+"Special economies",2022,
+"Special economies",2023,
+"Asia and Oceania",2002,1541
+"Asia and Oceania",2003,1615
+"Asia and Oceania",2004,1942
+"Asia and Oceania",2005,2179
+"Asia and Oceania",2006,2533
+"Asia and Oceania",2007,4888
+"Asia and Oceania",2008,5923
+"Asia and Oceania",2009,5693
+"Asia and Oceania",2010,4984
+"Asia and Oceania",2011,6130
+"Asia and Oceania",2012,5502
+"Asia and Oceania",2013,5943
+"Asia and Oceania",2014,6346
+"Asia and Oceania",2015,7265
+"Asia and Oceania",2016,7429
+"Asia and Oceania",2017,7931
+"Asia and Oceania",2018,9945
+"Asia and Oceania",2019,12367
+"Asia and Oceania",2020,7814
+"Asia and Oceania",2021,13360
+"Asia and Oceania",2022,12144
+"Asia and Oceania",2023,11632
+"Northern America and Europe",2002,11679
+"Northern America and Europe",2003,10764
+"Northern America and Europe",2004,13058
+"Northern America and Europe",2005,14442
+"Northern America and Europe",2006,16682
+"Northern America and Europe",2007,24582
+"Northern America and Europe",2008,23166
+"Northern America and Europe",2009,16308
+"Northern America and Europe",2010,19663
+"Northern America and Europe",2011,22298
+"Northern America and Europe",2012,22831
+"Northern America and Europe",2013,22236
+"Northern America and Europe",2014,22642
+"Northern America and Europe",2015,25405
+"Northern America and Europe",2016,20880
+"Northern America and Europe",2017,21237
+"Northern America and Europe",2018,24270
+"Northern America and Europe",2019,23947
+"Northern America and Europe",2020,17850
+"Northern America and Europe",2021,21832
+"Northern America and Europe",2022,20102
+"Northern America and Europe",2023,19522
+"Europe, Northern America, Australia and New Zealand",2002,11820
+"Europe, Northern America, Australia and New Zealand",2003,10929
+"Europe, Northern America, Australia and New Zealand",2004,13276
+"Europe, Northern America, Australia and New Zealand",2005,14709
+"Europe, Northern America, Australia and New Zealand",2006,16967
+"Europe, Northern America, Australia and New Zealand",2007,24977
+"Europe, Northern America, Australia and New Zealand",2008,23550
+"Europe, Northern America, Australia and New Zealand",2009,16589
+"Europe, Northern America, Australia and New Zealand",2010,19980
+"Europe, Northern America, Australia and New Zealand",2011,22660
+"Europe, Northern America, Australia and New Zealand",2012,23173
+"Europe, Northern America, Australia and New Zealand",2013,22606
+"Europe, Northern America, Australia and New Zealand",2014,23010
+"Europe, Northern America, Australia and New Zealand",2015,25769
+"Europe, Northern America, Australia and New Zealand",2016,21250
+"Europe, Northern America, Australia and New Zealand",2017,21627
+"Europe, Northern America, Australia and New Zealand",2018,24659
+"Europe, Northern America, Australia and New Zealand",2019,24356
+"Europe, Northern America, Australia and New Zealand",2020,18219
+"Europe, Northern America, Australia and New Zealand",2021,22292
+"Europe, Northern America, Australia and New Zealand",2022,20617
+"Europe, Northern America, Australia and New Zealand",2023,20017
+"Central and Southern Asia",2002,14
+"Central and Southern Asia",2003,23
+"Central and Southern Asia",2004,35
+"Central and Southern Asia",2005,143
+"Central and Southern Asia",2006,55
+"Central and Southern Asia",2007,103
+"Central and Southern Asia",2008,610
+"Central and Southern Asia",2009,2063
+"Central and Southern Asia",2010,1303
+"Central and Southern Asia",2011,2052
+"Central and Southern Asia",2012,1054
+"Central and Southern Asia",2013,759
+"Central and Southern Asia",2014,1055
+"Central and Southern Asia",2015,1240
+"Central and Southern Asia",2016,1710
+"Central and Southern Asia",2017,1604
+"Central and Southern Asia",2018,1289
+"Central and Southern Asia",2019,1206
+"Central and Southern Asia",2020,403
+"Central and Southern Asia",2021,331
+"Central and Southern Asia",2022,557
+"Central and Southern Asia",2023,748
+"Eastern and South-Eastern Asia",2002,1302
+"Eastern and South-Eastern Asia",2003,1342
+"Eastern and South-Eastern Asia",2004,1595
+"Eastern and South-Eastern Asia",2005,1630
+"Eastern and South-Eastern Asia",2006,2052
+"Eastern and South-Eastern Asia",2007,3993
+"Eastern and South-Eastern Asia",2008,4463
+"Eastern and South-Eastern Asia",2009,3032
+"Eastern and South-Eastern Asia",2010,2958
+"Eastern and South-Eastern Asia",2011,3217
+"Eastern and South-Eastern Asia",2012,3376
+"Eastern and South-Eastern Asia",2013,4247
+"Eastern and South-Eastern Asia",2014,4257
+"Eastern and South-Eastern Asia",2015,5068
+"Eastern and South-Eastern Asia",2016,4647
+"Eastern and South-Eastern Asia",2017,4911
+"Eastern and South-Eastern Asia",2018,6602
+"Eastern and South-Eastern Asia",2019,8441
+"Eastern and South-Eastern Asia",2020,6282
+"Eastern and South-Eastern Asia",2021,11196
+"Eastern and South-Eastern Asia",2022,10440
+"Eastern and South-Eastern Asia",2023,9310
+"Western Asia and Northern Africa",2002,88
+"Western Asia and Northern Africa",2003,85
+"Western Asia and Northern Africa",2004,97
+"Western Asia and Northern Africa",2005,143
+"Western Asia and Northern Africa",2006,151
+"Western Asia and Northern Africa",2007,483
+"Western Asia and Northern Africa",2008,595
+"Western Asia and Northern Africa",2009,426
+"Western Asia and Northern Africa",2010,471
+"Western Asia and Northern Africa",2011,559
+"Western Asia and Northern Africa",2012,804
+"Western Asia and Northern Africa",2013,694
+"Western Asia and Northern Africa",2014,820
+"Western Asia and Northern Africa",2015,700
+"Western Asia and Northern Africa",2016,777
+"Western Asia and Northern Africa",2017,1071
+"Western Asia and Northern Africa",2018,1695
+"Western Asia and Northern Africa",2019,2333
+"Western Asia and Northern Africa",2020,793
+"Western Asia and Northern Africa",2021,1394
+"Western Asia and Northern Africa",2022,663
+"Western Asia and Northern Africa",2023,1110
+"Developing economies",2002,891
+"Developing economies",2003,888
+"Developing economies",2004,1088
+"Developing economies",2005,1351
+"Developing economies",2006,1611
+"Developing economies",2007,3219
+"Developing economies",2008,4423
+"Developing economies",2009,4938
+"Developing economies",2010,4292
+"Developing economies",2011,5513
+"Developing economies",2012,4906
+"Developing economies",2013,5302
+"Developing economies",2014,5724
+"Developing economies",2015,6426
+"Developing economies",2016,6239
+"Developing economies",2017,6508
+"Developing economies",2018,8603
+"Developing economies",2019,11056
+"Developing economies",2020,6421
+"Developing economies",2021,11397
+"Developing economies",2022,10488
+"Developing economies",2023,10774
+"Developing economies: Africa",2002,56
+"Developing economies: Africa",2003,62
+"Developing economies: Africa",2004,84
+"Developing economies: Africa",2005,81
+"Developing economies: Africa",2006,262
+"Developing economies: Africa",2007,271
+"Developing economies: Africa",2008,353
+"Developing economies: Africa",2009,296
+"Developing economies: Africa",2010,278
+"Developing economies: Africa",2011,261
+"Developing economies: Africa",2012,260
+"Developing economies: Africa",2013,348
+"Developing economies: Africa",2014,405
+"Developing economies: Africa",2015,337
+"Developing economies: Africa",2016,267
+"Developing economies: Africa",2017,234
+"Developing economies: Africa",2018,260
+"Developing economies: Africa",2019,252
+"Developing economies: Africa",2020,196
+"Developing economies: Africa",2021,251
+"Developing economies: Africa",2022,418
+"Developing economies: Africa",2023,330
+"Developing economies: Americas",2002,213
+"Developing economies: Americas",2003,189
+"Developing economies: Americas",2004,216
+"Developing economies: Americas",2005,328
+"Developing economies: Americas",2006,333
+"Developing economies: Americas",2007,418
+"Developing economies: Americas",2008,549
+"Developing economies: Americas",2009,440
+"Developing economies: Americas",2010,576
+"Developing economies: Americas",2011,723
+"Developing economies: Americas",2012,793
+"Developing economies: Americas",2013,652
+"Developing economies: Americas",2014,685
+"Developing economies: Americas",2015,562
+"Developing economies: Americas",2016,553
+"Developing economies: Americas",2017,504
+"Developing economies: Americas",2018,631
+"Developing economies: Americas",2019,544
+"Developing economies: Americas",2020,365
+"Developing economies: Americas",2021,451
+"Developing economies: Americas",2022,508
+"Developing economies: Americas",2023,454
+"Developing economies: Asia and Oceania",2002,622
+"Developing economies: Asia and Oceania",2003,637
+"Developing economies: Asia and Oceania",2004,788
+"Developing economies: Asia and Oceania",2005,942
+"Developing economies: Asia and Oceania",2006,1016
+"Developing economies: Asia and Oceania",2007,2530
+"Developing economies: Asia and Oceania",2008,3521
+"Developing economies: Asia and Oceania",2009,4203
+"Developing economies: Asia and Oceania",2010,3437
+"Developing economies: Asia and Oceania",2011,4529
+"Developing economies: Asia and Oceania",2012,3853
+"Developing economies: Asia and Oceania",2013,4302
+"Developing economies: Asia and Oceania",2014,4635
+"Developing economies: Asia and Oceania",2015,5527
+"Developing economies: Asia and Oceania",2016,5420
+"Developing economies: Asia and Oceania",2017,5770
+"Developing economies: Asia and Oceania",2018,7712
+"Developing economies: Asia and Oceania",2019,10260
+"Developing economies: Asia and Oceania",2020,5859
+"Developing economies: Asia and Oceania",2021,10696
+"Developing economies: Asia and Oceania",2022,9562
+"Developing economies: Asia and Oceania",2023,9989
+"Developing economies: Asia",2002,618
+"Developing economies: Asia",2003,632
+"Developing economies: Asia",2004,783
+"Developing economies: Asia",2005,937
+"Developing economies: Asia",2006,1011
+"Developing economies: Asia",2007,2525
+"Developing economies: Asia",2008,3510
+"Developing economies: Asia",2009,4194
+"Developing economies: Asia",2010,3431
+"Developing economies: Asia",2011,4519
+"Developing economies: Asia",2012,3842
+"Developing economies: Asia",2013,4295
+"Developing economies: Asia",2014,4628
+"Developing economies: Asia",2015,5521
+"Developing economies: Asia",2016,5416
+"Developing economies: Asia",2017,5766
+"Developing economies: Asia",2018,7706
+"Developing economies: Asia",2019,10254
+"Developing economies: Asia",2020,5853
+"Developing economies: Asia",2021,10688
+"Developing economies: Asia",2022,9558
+"Developing economies: Asia",2023,9987
+"Developing economies: Oceania",2002,3
+"Developing economies: Oceania",2003,5
+"Developing economies: Oceania",2004,5
+"Developing economies: Oceania",2005,5
+"Developing economies: Oceania",2006,5
+"Developing economies: Oceania",2007,5
+"Developing economies: Oceania",2008,12
+"Developing economies: Oceania",2009,8
+"Developing economies: Oceania",2010,7
+"Developing economies: Oceania",2011,10
+"Developing economies: Oceania",2012,11
+"Developing economies: Oceania",2013,7
+"Developing economies: Oceania",2014,7
+"Developing economies: Oceania",2015,6
+"Developing economies: Oceania",2016,4
+"Developing economies: Oceania",2017,4
+"Developing economies: Oceania",2018,5
+"Developing economies: Oceania",2019,6
+"Developing economies: Oceania",2020,6
+"Developing economies: Oceania",2021,7
+"Developing economies: Oceania",2022,4
+"Developing economies: Oceania",2023,2
+"Developed economies",2002,12599
+"Developed economies",2003,11741
+"Developed economies",2004,14211
+"Developed economies",2005,15679
+"Developed economies",2006,18199
+"Developed economies",2007,26940
+"Developed economies",2008,25568
+"Developed economies",2009,17799
+"Developed economies",2010,21210
+"Developed economies",2011,23899
+"Developed economies",2012,24480
+"Developed economies",2013,23877
+"Developed economies",2014,24354
+"Developed economies",2015,27142
+"Developed economies",2016,22889
+"Developed economies",2017,23398
+"Developed economies",2018,26502
+"Developed economies",2019,26053
+"Developed economies",2020,19805
+"Developed economies",2021,24497
+"Developed economies",2022,22684
+"Developed economies",2023,21165
+"Developed economies: Americas",2002,5772
+"Developed economies: Americas",2003,5143
+"Developed economies: Americas",2004,6140
+"Developed economies: Americas",2005,6430
+"Developed economies: Americas",2006,7420
+"Developed economies: Americas",2007,9784
+"Developed economies: Americas",2008,8700
+"Developed economies: Americas",2009,6108
+"Developed economies: Americas",2010,7530
+"Developed economies: Americas",2011,8132
+"Developed economies: Americas",2012,8808
+"Developed economies: Americas",2013,9980
+"Developed economies: Americas",2014,10051
+"Developed economies: Americas",2015,12689
+"Developed economies: Americas",2016,10604
+"Developed economies: Americas",2017,11386
+"Developed economies: Americas",2018,12867
+"Developed economies: Americas",2019,12604
+"Developed economies: Americas",2020,6827
+"Developed economies: Americas",2021,10552
+"Developed economies: Americas",2022,9895
+"Developed economies: Americas",2023,9435
+"Developed economies: Asia and Oceania",2002,920
+"Developed economies: Asia and Oceania",2003,977
+"Developed economies: Asia and Oceania",2004,1153
+"Developed economies: Asia and Oceania",2005,1237
+"Developed economies: Asia and Oceania",2006,1517
+"Developed economies: Asia and Oceania",2007,2359
+"Developed economies: Asia and Oceania",2008,2402
+"Developed economies: Asia and Oceania",2009,1491
+"Developed economies: Asia and Oceania",2010,1547
+"Developed economies: Asia and Oceania",2011,1601
+"Developed economies: Asia and Oceania",2012,1650
+"Developed economies: Asia and Oceania",2013,1641
+"Developed economies: Asia and Oceania",2014,1711
+"Developed economies: Asia and Oceania",2015,1737
+"Developed economies: Asia and Oceania",2016,2009
+"Developed economies: Asia and Oceania",2017,2161
+"Developed economies: Asia and Oceania",2018,2233
+"Developed economies: Asia and Oceania",2019,2106
+"Developed economies: Asia and Oceania",2020,1955
+"Developed economies: Asia and Oceania",2021,2664
+"Developed economies: Asia and Oceania",2022,2582
+"Developed economies: Asia and Oceania",2023,1643
+"Developed economies: Asia",2002,779
+"Developed economies: Asia",2003,812
+"Developed economies: Asia",2004,935
+"Developed economies: Asia",2005,970
+"Developed economies: Asia",2006,1232
+"Developed economies: Asia",2007,1964
+"Developed economies: Asia",2008,2017
+"Developed economies: Asia",2009,1210
+"Developed economies: Asia",2010,1230
+"Developed economies: Asia",2011,1239
+"Developed economies: Asia",2012,1307
+"Developed economies: Asia",2013,1271
+"Developed economies: Asia",2014,1344
+"Developed economies: Asia",2015,1373
+"Developed economies: Asia",2016,1639
+"Developed economies: Asia",2017,1771
+"Developed economies: Asia",2018,1843
+"Developed economies: Asia",2019,1697
+"Developed economies: Asia",2020,1585
+"Developed economies: Asia",2021,2205
+"Developed economies: Asia",2022,2067
+"Developed economies: Asia",2023,1148
+"Developed economies: Oceania",2002,140
+"Developed economies: Oceania",2003,165
+"Developed economies: Oceania",2004,218
+"Developed economies: Oceania",2005,267
+"Developed economies: Oceania",2006,285
+"Developed economies: Oceania",2007,395
+"Developed economies: Oceania",2008,384
+"Developed economies: Oceania",2009,281
+"Developed economies: Oceania",2010,317
+"Developed economies: Oceania",2011,362
+"Developed economies: Oceania",2012,342
+"Developed economies: Oceania",2013,370
+"Developed economies: Oceania",2014,367
+"Developed economies: Oceania",2015,364
+"Developed economies: Oceania",2016,370
+"Developed economies: Oceania",2017,390
+"Developed economies: Oceania",2018,389
+"Developed economies: Oceania",2019,409
+"Developed economies: Oceania",2020,369
+"Developed economies: Oceania",2021,459
+"Developed economies: Oceania",2022,516
+"Developed economies: Oceania",2023,495
+"Developed economies: Europe",2002,5907
+"Developed economies: Europe",2003,5620
+"Developed economies: Europe",2004,6919
+"Developed economies: Europe",2005,8012
+"Developed economies: Europe",2006,9263
+"Developed economies: Europe",2007,14798
+"Developed economies: Europe",2008,14465
+"Developed economies: Europe",2009,10200
+"Developed economies: Europe",2010,12133
+"Developed economies: Europe",2011,14166
+"Developed economies: Europe",2012,14022
+"Developed economies: Europe",2013,12256
+"Developed economies: Europe",2014,12592
+"Developed economies: Europe",2015,12716
+"Developed economies: Europe",2016,10276
+"Developed economies: Europe",2017,9850
+"Developed economies: Europe",2018,11403
+"Developed economies: Europe",2019,11342
+"Developed economies: Europe",2020,11023
+"Developed economies: Europe",2021,11280
+"Developed economies: Europe",2022,10206
+"Developed economies: Europe",2023,10087
+"Developing economies excluding China",2002,779
+"Developing economies excluding China",2003,782
+"Developing economies excluding China",2004,953
+"Developing economies excluding China",2005,1218
+"Developing economies excluding China",2006,1456
+"Developing economies excluding China",2007,2985
+"Developing economies excluding China",2008,4182
+"Developing economies excluding China",2009,4707
+"Developing economies excluding China",2010,4011
+"Developing economies excluding China",2011,5187
+"Developing economies excluding China",2012,4540
+"Developing economies excluding China",2013,4276
+"Developing economies excluding China",2014,4970
+"Developing economies excluding China",2015,5875
+"Developing economies excluding China",2016,5744
+"Developing economies excluding China",2017,6035
+"Developing economies excluding China",2018,7976
+"Developing economies excluding China",2019,9895
+"Developing economies excluding China",2020,5397
+"Developing economies excluding China",2021,8683
+"Developing economies excluding China",2022,8645
+"Developing economies excluding China",2023,9024
+"Developing economies excluding LDCs",2002,884
+"Developing economies excluding LDCs",2003,878
+"Developing economies excluding LDCs",2004,1078
+"Developing economies excluding LDCs",2005,1340
+"Developing economies excluding LDCs",2006,1599
+"Developing economies excluding LDCs",2007,3196
+"Developing economies excluding LDCs",2008,3974
+"Developing economies excluding LDCs",2009,4888
+"Developing economies excluding LDCs",2010,4223
+"Developing economies excluding LDCs",2011,5454
+"Developing economies excluding LDCs",2012,4839
+"Developing economies excluding LDCs",2013,5213
+"Developing economies excluding LDCs",2014,5634
+"Developing economies excluding LDCs",2015,6266
+"Developing economies excluding LDCs",2016,6155
+"Developing economies excluding LDCs",2017,6392
+"Developing economies excluding LDCs",2018,8508
+"Developing economies excluding LDCs",2019,10932
+"Developing economies excluding LDCs",2020,6333
+"Developing economies excluding LDCs",2021,11310
+"Developing economies excluding LDCs",2022,10398
+"Developing economies excluding LDCs",2023,10694
+"LDCs (Least developed countries)",2002,6
+"LDCs (Least developed countries)",2003,10
+"LDCs (Least developed countries)",2004,10
+"LDCs (Least developed countries)",2005,12
+"LDCs (Least developed countries)",2006,11
+"LDCs (Least developed countries)",2007,23
+"LDCs (Least developed countries)",2008,448
+"LDCs (Least developed countries)",2009,50
+"LDCs (Least developed countries)",2010,68
+"LDCs (Least developed countries)",2011,58
+"LDCs (Least developed countries)",2012,66
+"LDCs (Least developed countries)",2013,89
+"LDCs (Least developed countries)",2014,90
+"LDCs (Least developed countries)",2015,160
+"LDCs (Least developed countries)",2016,84
+"LDCs (Least developed countries)",2017,116
+"LDCs (Least developed countries)",2018,95
+"LDCs (Least developed countries)",2019,124
+"LDCs (Least developed countries)",2020,88
+"LDCs (Least developed countries)",2021,87
+"LDCs (Least developed countries)",2022,90
+"LDCs (Least developed countries)",2023,80
+"LDCs: Africa",2002,5
+"LDCs: Africa",2003,7
+"LDCs: Africa",2004,8
+"LDCs: Africa",2005,10
+"LDCs: Africa",2006,10
+"LDCs: Africa",2007,17
+"LDCs: Africa",2008,35
+"LDCs: Africa",2009,37
+"LDCs: Africa",2010,33
+"LDCs: Africa",2011,36
+"LDCs: Africa",2012,40
+"LDCs: Africa",2013,56
+"LDCs: Africa",2014,57
+"LDCs: Africa",2015,88
+"LDCs: Africa",2016,61
+"LDCs: Africa",2017,61
+"LDCs: Africa",2018,59
+"LDCs: Africa",2019,57
+"LDCs: Africa",2020,55
+"LDCs: Africa",2021,74
+"LDCs: Africa",2022,75
+"LDCs: Africa",2023,76
+"LDCs: Asia",2002,1
+"LDCs: Asia",2003,3
+"LDCs: Asia",2004,2
+"LDCs: Asia",2005,2
+"LDCs: Asia",2006,1
+"LDCs: Asia",2007,5
+"LDCs: Asia",2008,413
+"LDCs: Asia",2009,13
+"LDCs: Asia",2010,35
+"LDCs: Asia",2011,20
+"LDCs: Asia",2012,25
+"LDCs: Asia",2013,31
+"LDCs: Asia",2014,32
+"LDCs: Asia",2015,72
+"LDCs: Asia",2016,23
+"LDCs: Asia",2017,53
+"LDCs: Asia",2018,34
+"LDCs: Asia",2019,66
+"LDCs: Asia",2020,32
+"LDCs: Asia",2021,13
+"LDCs: Asia",2022,14
+"LDCs: Asia",2023,3
+"LDCs: Islands and Haiti",2002,0
+"LDCs: Islands and Haiti",2003,0
+"LDCs: Islands and Haiti",2004,0
+"LDCs: Islands and Haiti",2005,0
+"LDCs: Islands and Haiti",2006,0
+"LDCs: Islands and Haiti",2007,0
+"LDCs: Islands and Haiti",2008,0
+"LDCs: Islands and Haiti",2009,0
+"LDCs: Islands and Haiti",2010,0
+"LDCs: Islands and Haiti",2011,2
+"LDCs: Islands and Haiti",2012,0
+"LDCs: Islands and Haiti",2013,2
+"LDCs: Islands and Haiti",2014,1
+"LDCs: Islands and Haiti",2015,1
+"LDCs: Islands and Haiti",2016,1
+"LDCs: Islands and Haiti",2017,1
+"LDCs: Islands and Haiti",2018,2
+"LDCs: Islands and Haiti",2019,1
+"LDCs: Islands and Haiti",2020,1
+"LDCs: Islands and Haiti",2021,1
+"LDCs: Islands and Haiti",2022,1
+"LDCs: Islands and Haiti",2023,0
+"LLDCs (Landlocked developing countries)",2002,11
+"LLDCs (Landlocked developing countries)",2003,13
+"LLDCs (Landlocked developing countries)",2004,13
+"LLDCs (Landlocked developing countries)",2005,24
+"LLDCs (Landlocked developing countries)",2006,27
+"LLDCs (Landlocked developing countries)",2007,41
+"LLDCs (Landlocked developing countries)",2008,458
+"LLDCs (Landlocked developing countries)",2009,78
+"LLDCs (Landlocked developing countries)",2010,120
+"LLDCs (Landlocked developing countries)",2011,181
+"LLDCs (Landlocked developing countries)",2012,105
+"LLDCs (Landlocked developing countries)",2013,100
+"LLDCs (Landlocked developing countries)",2014,115
+"LLDCs (Landlocked developing countries)",2015,98
+"LLDCs (Landlocked developing countries)",2016,110
+"LLDCs (Landlocked developing countries)",2017,133
+"LLDCs (Landlocked developing countries)",2018,106
+"LLDCs (Landlocked developing countries)",2019,144
+"LLDCs (Landlocked developing countries)",2020,105
+"LLDCs (Landlocked developing countries)",2021,109
+"LLDCs (Landlocked developing countries)",2022,134
+"LLDCs (Landlocked developing countries)",2023,93
+"SIDS (Small island developing States) (UN-OHRLLS)",2002,97
+"SIDS (Small island developing States) (UN-OHRLLS)",2003,111
+"SIDS (Small island developing States) (UN-OHRLLS)",2004,159
+"SIDS (Small island developing States) (UN-OHRLLS)",2005,146
+"SIDS (Small island developing States) (UN-OHRLLS)",2006,210
+"SIDS (Small island developing States) (UN-OHRLLS)",2007,415
+"SIDS (Small island developing States) (UN-OHRLLS)",2008,708
+"SIDS (Small island developing States) (UN-OHRLLS)",2009,397
+"SIDS (Small island developing States) (UN-OHRLLS)",2010,421
+"SIDS (Small island developing States) (UN-OHRLLS)",2011,506
+"SIDS (Small island developing States) (UN-OHRLLS)",2012,466
+"SIDS (Small island developing States) (UN-OHRLLS)",2013,544
+"SIDS (Small island developing States) (UN-OHRLLS)",2014,478
+"SIDS (Small island developing States) (UN-OHRLLS)",2015,532
+"SIDS (Small island developing States) (UN-OHRLLS)",2016,666
+"SIDS (Small island developing States) (UN-OHRLLS)",2017,929
+"SIDS (Small island developing States) (UN-OHRLLS)",2018,558
+"SIDS (Small island developing States) (UN-OHRLLS)",2019,607
+"SIDS (Small island developing States) (UN-OHRLLS)",2020,508
+"SIDS (Small island developing States) (UN-OHRLLS)",2021,993
+"SIDS (Small island developing States) (UN-OHRLLS)",2022,1272
+"SIDS (Small island developing States) (UN-OHRLLS)",2023,1092
+"SIDS: Atlantic and Indian Ocean",2002,1
+"SIDS: Atlantic and Indian Ocean",2003,2
+"SIDS: Atlantic and Indian Ocean",2004,2
+"SIDS: Atlantic and Indian Ocean",2005,2
+"SIDS: Atlantic and Indian Ocean",2006,3
+"SIDS: Atlantic and Indian Ocean",2007,3
+"SIDS: Atlantic and Indian Ocean",2008,7
+"SIDS: Atlantic and Indian Ocean",2009,11
+"SIDS: Atlantic and Indian Ocean",2010,11
+"SIDS: Atlantic and Indian Ocean",2011,12
+"SIDS: Atlantic and Indian Ocean",2012,13
+"SIDS: Atlantic and Indian Ocean",2013,12
+"SIDS: Atlantic and Indian Ocean",2014,14
+"SIDS: Atlantic and Indian Ocean",2015,15
+"SIDS: Atlantic and Indian Ocean",2016,13
+"SIDS: Atlantic and Indian Ocean",2017,10
+"SIDS: Atlantic and Indian Ocean",2018,20
+"SIDS: Atlantic and Indian Ocean",2019,32
+"SIDS: Atlantic and Indian Ocean",2020,12
+"SIDS: Atlantic and Indian Ocean",2021,10
+"SIDS: Atlantic and Indian Ocean",2022,8
+"SIDS: Atlantic and Indian Ocean",2023,7
+"SIDS: Caribbean",2002,12
+"SIDS: Caribbean",2003,15
+"SIDS: Caribbean",2004,14
+"SIDS: Caribbean",2005,30
+"SIDS: Caribbean",2006,25
+"SIDS: Caribbean",2007,25
+"SIDS: Caribbean",2008,26
+"SIDS: Caribbean",2009,23
+"SIDS: Caribbean",2010,21
+"SIDS: Caribbean",2011,24
+"SIDS: Caribbean",2012,23
+"SIDS: Caribbean",2013,23
+"SIDS: Caribbean",2014,25
+"SIDS: Caribbean",2015,25
+"SIDS: Caribbean",2016,27
+"SIDS: Caribbean",2017,32
+"SIDS: Caribbean",2018,47
+"SIDS: Caribbean",2019,59
+"SIDS: Caribbean",2020,30
+"SIDS: Caribbean",2021,38
+"SIDS: Caribbean",2022,35
+"SIDS: Caribbean",2023,26
+"SIDS: Pacific",2002,84
+"SIDS: Pacific",2003,94
+"SIDS: Pacific",2004,143
+"SIDS: Pacific",2005,114
+"SIDS: Pacific",2006,181
+"SIDS: Pacific",2007,387
+"SIDS: Pacific",2008,675
+"SIDS: Pacific",2009,362
+"SIDS: Pacific",2010,389
+"SIDS: Pacific",2011,469
+"SIDS: Pacific",2012,431
+"SIDS: Pacific",2013,509
+"SIDS: Pacific",2014,440
+"SIDS: Pacific",2015,491
+"SIDS: Pacific",2016,626
+"SIDS: Pacific",2017,887
+"SIDS: Pacific",2018,492
+"SIDS: Pacific",2019,516
+"SIDS: Pacific",2020,466
+"SIDS: Pacific",2021,945
+"SIDS: Pacific",2022,1229
+"SIDS: Pacific",2023,1059
+"Low-income developing economies",2002,5
+"Low-income developing economies",2003,10
+"Low-income developing economies",2004,11
+"Low-income developing economies",2005,10
+"Low-income developing economies",2006,10
+"Low-income developing economies",2007,19
+"Low-income developing economies",2008,521
+"Low-income developing economies",2009,56
+"Low-income developing economies",2010,112
+"Low-income developing economies",2011,82
+"Low-income developing economies",2012,102
+"Low-income developing economies",2013,106
+"Low-income developing economies",2014,164
+"Low-income developing economies",2015,171
+"Low-income developing economies",2016,116
+"Low-income developing economies",2017,112
+"Low-income developing economies",2018,95
+"Low-income developing economies",2019,126
+"Low-income developing economies",2020,81
+"Low-income developing economies",2021,67
+"Low-income developing economies",2022,112
+"Low-income developing economies",2023,67
+"Middle-income developing economies",2002,139
+"Middle-income developing economies",2003,121
+"Middle-income developing economies",2004,161
+"Middle-income developing economies",2005,225
+"Middle-income developing economies",2006,398
+"Middle-income developing economies",2007,490
+"Middle-income developing economies",2008,661
+"Middle-income developing economies",2009,2462
+"Middle-income developing economies",2010,1754
+"Middle-income developing economies",2011,2479
+"Middle-income developing economies",2012,1605
+"Middle-income developing economies",2013,1299
+"Middle-income developing economies",2014,1585
+"Middle-income developing economies",2015,1733
+"Middle-income developing economies",2016,2159
+"Middle-income developing economies",2017,2198
+"Middle-income developing economies",2018,1995
+"Middle-income developing economies",2019,1831
+"Middle-income developing economies",2020,856
+"Middle-income developing economies",2021,904
+"Middle-income developing economies",2022,1246
+"Middle-income developing economies",2023,1303
+"High-income developing economies",2002,746
+"High-income developing economies",2003,758
+"High-income developing economies",2004,916
+"High-income developing economies",2005,1117
+"High-income developing economies",2006,1203
+"High-income developing economies",2007,2710
+"High-income developing economies",2008,3242
+"High-income developing economies",2009,2420
+"High-income developing economies",2010,2425
+"High-income developing economies",2011,2952
+"High-income developing economies",2012,3199
+"High-income developing economies",2013,3897
+"High-income developing economies",2014,3975
+"High-income developing economies",2015,4522
+"High-income developing economies",2016,3964
+"High-income developing economies",2017,4198
+"High-income developing economies",2018,6513
+"High-income developing economies",2019,9100
+"High-income developing economies",2020,5484
+"High-income developing economies",2021,10426
+"High-income developing economies",2022,9130
+"High-income developing economies",2023,9404
+"BRICS",2002,214
+"BRICS",2003,251
+"BRICS",2004,306
+"BRICS",2005,323
+"BRICS",2006,561
+"BRICS",2007,698
+"BRICS",2008,691
+"BRICS",2009,2495
+"BRICS",2010,1812
+"BRICS",2011,2597
+"BRICS",2012,1720
+"BRICS",2013,2105
+"BRICS",2014,2081
+"BRICS",2015,1968
+"BRICS",2016,2328
+"BRICS",2017,2240
+"BRICS",2018,2203
+"BRICS",2019,2620
+"BRICS",2020,1631
+"BRICS",2021,3361
+"BRICS",2022,2502
+"BRICS",2023,2638
+"European Union (2020 …)",2002,2020
+"European Union (2020 …)",2003,2050
+"European Union (2020 …)",2004,2623
+"European Union (2020 …)",2005,3001
+"European Union (2020 …)",2006,3371
+"European Union (2020 …)",2007,6079
+"European Union (2020 …)",2008,6630
+"European Union (2020 …)",2009,5069
+"European Union (2020 …)",2010,5024
+"European Union (2020 …)",2011,5094
+"European Union (2020 …)",2012,4843
+"European Union (2020 …)",2013,4753
+"European Union (2020 …)",2014,5464
+"European Union (2020 …)",2015,4805
+"European Union (2020 …)",2016,4727
+"European Union (2020 …)",2017,4869
+"European Union (2020 …)",2018,5417
+"European Union (2020 …)",2019,5343
+"European Union (2020 …)",2020,6188
+"European Union (2020 …)",2021,6865
+"European Union (2020 …)",2022,6200
+"European Union (2020 …)",2023,6170
+"G20 (Group of Twenty)",2002,11212
+"G20 (Group of Twenty)",2003,9997
+"G20 (Group of Twenty)",2004,12165
+"G20 (Group of Twenty)",2005,12932
+"G20 (Group of Twenty)",2006,15824
+"G20 (Group of Twenty)",2007,22061
+"G20 (Group of Twenty)",2008,21137
+"G20 (Group of Twenty)",2009,16619
+"G20 (Group of Twenty)",2010,18945
+"G20 (Group of Twenty)",2011,22703
+"G20 (Group of Twenty)",2012,22816
+"G20 (Group of Twenty)",2013,21938
+"G20 (Group of Twenty)",2014,22577
+"G20 (Group of Twenty)",2015,24924
+"G20 (Group of Twenty)",2016,21124
+"G20 (Group of Twenty)",2017,21597
+"G20 (Group of Twenty)",2018,23849
+"G20 (Group of Twenty)",2019,23693
+"G20 (Group of Twenty)",2020,16844
+"G20 (Group of Twenty)",2021,22822
+"G20 (Group of Twenty)",2022,21128
+"G20 (Group of Twenty)",2023,19827
+"G-77 (Group of 77)",2002,505
+"G-77 (Group of 77)",2003,502
+"G-77 (Group of 77)",2004,658
+"G-77 (Group of 77)",2005,870
+"G-77 (Group of 77)",2006,1054
+"G-77 (Group of 77)",2007,2439
+"G-77 (Group of 77)",2008,3518
+"G-77 (Group of 77)",2009,4181
+"G-77 (Group of 77)",2010,3419
+"G-77 (Group of 77)",2011,4431
+"G-77 (Group of 77)",2012,3822
+"G-77 (Group of 77)",2013,4042
+"G-77 (Group of 77)",2014,4110
+"G-77 (Group of 77)",2015,3936
+"G-77 (Group of 77)",2016,4436
+"G-77 (Group of 77)",2017,5031
+"G-77 (Group of 77)",2018,5362
+"G-77 (Group of 77)",2019,6376
+"G-77 (Group of 77)",2020,3479
+"G-77 (Group of 77)",2021,6335
+"G-77 (Group of 77)",2022,5517
+"G-77 (Group of 77)",2023,5652
+"OECD (Organisation for Economic Cooperation and Development)",2002,12671
+"OECD (Organisation for Economic Cooperation and Development)",2003,11741
+"OECD (Organisation for Economic Cooperation and Development)",2004,14225
+"OECD (Organisation for Economic Cooperation and Development)",2005,15727
+"OECD (Organisation for Economic Cooperation and Development)",2006,18228
+"OECD (Organisation for Economic Cooperation and Development)",2007,26911
+"OECD (Organisation for Economic Cooperation and Development)",2008,25545
+"OECD (Organisation for Economic Cooperation and Development)",2009,17794
+"OECD (Organisation for Economic Cooperation and Development)",2010,21242
+"OECD (Organisation for Economic Cooperation and Development)",2011,23973
+"OECD (Organisation for Economic Cooperation and Development)",2012,24529
+"OECD (Organisation for Economic Cooperation and Development)",2013,23891
+"OECD (Organisation for Economic Cooperation and Development)",2014,24469
+"OECD (Organisation for Economic Cooperation and Development)",2015,27260
+"OECD (Organisation for Economic Cooperation and Development)",2016,23083
+"OECD (Organisation for Economic Cooperation and Development)",2017,23519
+"OECD (Organisation for Economic Cooperation and Development)",2018,26613
+"OECD (Organisation for Economic Cooperation and Development)",2019,26029
+"OECD (Organisation for Economic Cooperation and Development)",2020,19486
+"OECD (Organisation for Economic Cooperation and Development)",2021,24426
+"OECD (Organisation for Economic Cooperation and Development)",2022,22827
+"OECD (Organisation for Economic Cooperation and Development)",2023,21285

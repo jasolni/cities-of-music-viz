@@ -1,0 +1,741 @@
+Economy_Label,Year,US_at_current_prices_in_millions_Value
+"World",2005,10126101
+"World",2006,11720701
+"World",2007,13580422
+"World",2008,15612203
+"World",2009,12131040
+"World",2010,14793491
+"World",2011,17828811
+"World",2012,18069815
+"World",2013,18456112
+"World",2014,18469832
+"World",2015,16061398
+"World",2016,15563878
+"World",2017,17261546
+"World",2018,18912517
+"World",2019,18358410
+"World",2020,16941699
+"World",2021,21588806
+"World",2022,24079225
+"World",2023,22939098
+"World",2024,23334562
+"Africa",2005,318161
+"Africa",2006,374078
+"Africa",2007,447717
+"Africa",2008,568040
+"Africa",2009,397649
+"Africa",2010,513870
+"Africa",2011,586790
+"Africa",2012,617212
+"Africa",2013,599152
+"Africa",2014,542580
+"Africa",2015,384364
+"Africa",2016,351018
+"Africa",2017,422364
+"Africa",2018,485633
+"Africa",2019,469430
+"Africa",2020,372644
+"Africa",2021,539407
+"Africa",2022,652242
+"Africa",2023,589460
+"Africa",2024,607985
+"Americas",2005,1864673
+"Americas",2006,2134854
+"Americas",2007,2377555
+"Americas",2008,2672266
+"Americas",2009,2092174
+"Americas",2010,2568392
+"Americas",2011,3064970
+"Americas",2012,3142392
+"Americas",2013,3168306
+"Americas",2014,3193352
+"Americas",2015,2838745
+"Americas",2016,2733486
+"Americas",2017,2971071
+"Americas",2018,3207237
+"Americas",2019,3154486
+"Americas",2020,2771000
+"Americas",2021,3487168
+"Americas",2022,4124941
+"Americas",2023,4025800
+"Americas",2024,4114060
+"Asia",2005,3490532
+"Asia",2006,4114482
+"Asia",2007,4801482
+"Asia",2008,5653174
+"Asia",2009,4507619
+"Asia",2010,5806095
+"Asia",2011,7121596
+"Asia",2012,7499764
+"Asia",2013,7685702
+"Asia",2014,7707357
+"Asia",2015,6776797
+"Asia",2016,6470924
+"Asia",2017,7242088
+"Asia",2018,7914686
+"Asia",2019,7612142
+"Asia",2020,7216226
+"Asia",2021,9301467
+"Asia",2022,10226881
+"Asia",2023,9551760
+"Asia",2024,9961404
+"Europe",2005,4317310
+"Europe",2006,4942638
+"Europe",2007,5775565
+"Europe",2008,6491126
+"Europe",2009,4947500
+"Europe",2010,5651268
+"Europe",2011,6734974
+"Europe",2012,6504174
+"Europe",2013,6699521
+"Europe",2014,6731251
+"Europe",2015,5827214
+"Europe",2016,5771503
+"Europe",2017,6342982
+"Europe",2018,6992772
+"Europe",2019,6796131
+"Europe",2020,6280329
+"Europe",2021,7856397
+"Europe",2022,8596721
+"Europe",2023,8340634
+"Europe",2024,8249923
+"Oceania",2005,135425
+"Oceania",2006,154648
+"Oceania",2007,178103
+"Oceania",2008,227595
+"Oceania",2009,186097
+"Oceania",2010,253866
+"Oceania",2011,320480
+"Oceania",2012,306273
+"Oceania",2013,303430
+"Oceania",2014,295293
+"Oceania",2015,234278
+"Oceania",2016,236947
+"Oceania",2017,283041
+"Oceania",2018,312188
+"Oceania",2019,326221
+"Oceania",2020,301501
+"Oceania",2021,404367
+"Oceania",2022,478440
+"Oceania",2023,431445
+"Oceania",2024,401191
+"Individual economies",2005,
+"Individual economies",2006,
+"Individual economies",2007,
+"Individual economies",2008,
+"Individual economies",2009,
+"Individual economies",2010,
+"Individual economies",2011,
+"Individual economies",2012,
+"Individual economies",2013,
+"Individual economies",2014,
+"Individual economies",2015,
+"Individual economies",2016,
+"Individual economies",2017,
+"Individual economies",2018,
+"Individual economies",2019,
+"Individual economies",2020,
+"Individual economies",2021,
+"Individual economies",2022,
+"Individual economies",2023,
+"Individual economies",2024,
+"Asia and Oceania",2005,3625958
+"Asia and Oceania",2006,4269130
+"Asia and Oceania",2007,4979586
+"Asia and Oceania",2008,5880770
+"Asia and Oceania",2009,4693716
+"Asia and Oceania",2010,6059961
+"Asia and Oceania",2011,7442076
+"Asia and Oceania",2012,7806037
+"Asia and Oceania",2013,7989132
+"Asia and Oceania",2014,8002650
+"Asia and Oceania",2015,7011076
+"Asia and Oceania",2016,6707871
+"Asia and Oceania",2017,7525129
+"Asia and Oceania",2018,8226875
+"Asia and Oceania",2019,7938362
+"Asia and Oceania",2020,7517727
+"Asia and Oceania",2021,9705834
+"Asia and Oceania",2022,10705321
+"Asia and Oceania",2023,9983204
+"Asia and Oceania",2024,10362594
+"Northern America and Europe",2005,5601694
+"Northern America and Europe",2006,6383287
+"Northern America and Europe",2007,7371510
+"Northern America and Europe",2008,8257734
+"Northern America and Europe",2009,6340732
+"Northern America and Europe",2010,7334918
+"Northern America and Europe",2011,8696983
+"Northern America and Europe",2012,8530284
+"Northern America and Europe",2013,8760250
+"Northern America and Europe",2014,8847736
+"Northern America and Europe",2015,7749979
+"Northern America and Europe",2016,7623562
+"Northern America and Europe",2017,8324705
+"Northern America and Europe",2018,9122650
+"Northern America and Europe",2019,8900930
+"Northern America and Europe",2020,8104568
+"Northern America and Europe",2021,10132486
+"Northern America and Europe",2022,11295221
+"Northern America and Europe",2023,10959612
+"Northern America and Europe",2024,10899151
+"Europe, Northern America, Australia and New Zealand",2005,5730486
+"Europe, Northern America, Australia and New Zealand",2006,6530302
+"Europe, Northern America, Australia and New Zealand",2007,7540774
+"Europe, Northern America, Australia and New Zealand",2008,8476141
+"Europe, Northern America, Australia and New Zealand",2009,6519796
+"Europe, Northern America, Australia and New Zealand",2010,7579832
+"Europe, Northern America, Australia and New Zealand",2011,9006676
+"Europe, Northern America, Australia and New Zealand",2012,8826388
+"Europe, Northern America, Australia and New Zealand",2013,9054147
+"Europe, Northern America, Australia and New Zealand",2014,9130104
+"Europe, Northern America, Australia and New Zealand",2015,7972459
+"Europe, Northern America, Australia and New Zealand",2016,7849773
+"Europe, Northern America, Australia and New Zealand",2017,8594401
+"Europe, Northern America, Australia and New Zealand",2018,9420736
+"Europe, Northern America, Australia and New Zealand",2019,9212223
+"Europe, Northern America, Australia and New Zealand",2020,8393263
+"Europe, Northern America, Australia and New Zealand",2021,10522129
+"Europe, Northern America, Australia and New Zealand",2022,11754189
+"Europe, Northern America, Australia and New Zealand",2023,11373818
+"Europe, Northern America, Australia and New Zealand",2024,11283481
+"Central and Southern Asia",2005,239325
+"Central and Southern Asia",2006,289062
+"Central and Southern Asia",2007,358046
+"Central and Southern Asia",2008,431428
+"Central and Southern Asia",2009,358108
+"Central and Southern Asia",2010,469777
+"Central and Southern Asia",2011,623887
+"Central and Southern Asia",2012,565970
+"Central and Southern Asia",2013,589173
+"Central and Southern Asia",2014,578410
+"Central and Southern Asia",2015,462333
+"Central and Southern Asia",2016,471197
+"Central and Southern Asia",2017,538774
+"Central and Southern Asia",2018,582125
+"Central and Southern Asia",2019,550589
+"Central and Southern Asia",2020,458700
+"Central and Southern Asia",2021,656905
+"Central and Southern Asia",2022,771094
+"Central and Southern Asia",2023,740647
+"Central and Southern Asia",2024,759737
+"Eastern and South-Eastern Asia",2005,2677236
+"Eastern and South-Eastern Asia",2006,3134201
+"Eastern and South-Eastern Asia",2007,3626005
+"Eastern and South-Eastern Asia",2008,4123008
+"Eastern and South-Eastern Asia",2009,3374697
+"Eastern and South-Eastern Asia",2010,4387114
+"Eastern and South-Eastern Asia",2011,5187981
+"Eastern and South-Eastern Asia",2012,5477930
+"Eastern and South-Eastern Asia",2013,5634439
+"Eastern and South-Eastern Asia",2014,5753640
+"Eastern and South-Eastern Asia",2015,5322711
+"Eastern and South-Eastern Asia",2016,5091510
+"Eastern and South-Eastern Asia",2017,5672627
+"Eastern and South-Eastern Asia",2018,6122698
+"Eastern and South-Eastern Asia",2019,5919765
+"Eastern and South-Eastern Asia",2020,5860881
+"Eastern and South-Eastern Asia",2021,7404093
+"Eastern and South-Eastern Asia",2022,7793118
+"Eastern and South-Eastern Asia",2023,7299091
+"Eastern and South-Eastern Asia",2024,7779804
+"Western Asia and Northern Africa",2005,688010
+"Western Asia and Northern Africa",2006,829361
+"Western Asia and Northern Africa",2007,983216
+"Western Asia and Northern Africa",2008,1314705
+"Western Asia and Northern Africa",2009,911563
+"Western Asia and Northern Africa",2010,1120240
+"Western Asia and Northern Africa",2011,1471994
+"Western Asia and Northern Africa",2012,1653219
+"Western Asia and Northern Africa",2013,1639545
+"Western Asia and Northern Africa",2014,1521039
+"Western Asia and Northern Africa",2015,1091909
+"Western Asia and Northern Africa",2016,999981
+"Western Asia and Northern Africa",2017,1147213
+"Western Asia and Northern Africa",2018,1343192
+"Western Asia and Northern Africa",2019,1268846
+"Western Asia and Northern Africa",2020,985953
+"Western Asia and Northern Africa",2021,1391489
+"Western Asia and Northern Africa",2022,1862246
+"Western Asia and Northern Africa",2023,1687102
+"Western Asia and Northern Africa",2024,1590370
+"Developing economies",2005,3495963
+"Developing economies",2006,4196905
+"Developing economies",2007,4924484
+"Developing economies",2008,5890986
+"Developing economies",2009,4651516
+"Developing economies",2010,5957081
+"Developing economies",2011,7378519
+"Developing economies",2012,7799658
+"Developing economies",2013,8022545
+"Developing economies",2014,7960123
+"Developing economies",2015,6863710
+"Developing economies",2016,6508523
+"Developing economies",2017,7337221
+"Developing economies",2018,8065815
+"Developing economies",2019,7831272
+"Developing economies",2020,7338800
+"Developing economies",2021,9593731
+"Developing economies",2022,10794879
+"Developing economies",2023,10129716
+"Developing economies",2024,10587773
+"Developing economies: Africa",2005,318161
+"Developing economies: Africa",2006,374078
+"Developing economies: Africa",2007,447717
+"Developing economies: Africa",2008,568040
+"Developing economies: Africa",2009,397649
+"Developing economies: Africa",2010,513870
+"Developing economies: Africa",2011,586790
+"Developing economies: Africa",2012,617212
+"Developing economies: Africa",2013,599152
+"Developing economies: Africa",2014,542580
+"Developing economies: Africa",2015,384364
+"Developing economies: Africa",2016,351018
+"Developing economies: Africa",2017,422364
+"Developing economies: Africa",2018,485633
+"Developing economies: Africa",2019,469430
+"Developing economies: Africa",2020,372644
+"Developing economies: Africa",2021,539407
+"Developing economies: Africa",2022,652242
+"Developing economies: Africa",2023,589460
+"Developing economies: Africa",2024,607985
+"Developing economies: Americas",2005,580288
+"Developing economies: Americas",2006,694205
+"Developing economies: Americas",2007,781610
+"Developing economies: Americas",2008,905659
+"Developing economies: Americas",2009,698942
+"Developing economies: Americas",2010,884742
+"Developing economies: Americas",2011,1102961
+"Developing economies: Americas",2012,1116281
+"Developing economies: Americas",2013,1107577
+"Developing economies: Americas",2014,1076867
+"Developing economies: Americas",2015,915980
+"Developing economies: Americas",2016,881428
+"Developing economies: Americas",2017,989348
+"Developing economies: Americas",2018,1077359
+"Developing economies: Americas",2019,1049688
+"Developing economies: Americas",2020,946760
+"Developing economies: Americas",2021,1211079
+"Developing economies: Americas",2022,1426440
+"Developing economies: Americas",2023,1406822
+"Developing economies: Americas",2024,1464831
+"Developing economies: Asia and Oceania",2005,2597514
+"Developing economies: Asia and Oceania",2006,3128622
+"Developing economies: Asia and Oceania",2007,3695157
+"Developing economies: Asia and Oceania",2008,4417286
+"Developing economies: Asia and Oceania",2009,3554924
+"Developing economies: Asia and Oceania",2010,4558469
+"Developing economies: Asia and Oceania",2011,5688768
+"Developing economies: Asia and Oceania",2012,6066165
+"Developing economies: Asia and Oceania",2013,6315816
+"Developing economies: Asia and Oceania",2014,6340676
+"Developing economies: Asia and Oceania",2015,5563366
+"Developing economies: Asia and Oceania",2016,5276077
+"Developing economies: Asia and Oceania",2017,5925509
+"Developing economies: Asia and Oceania",2018,6502823
+"Developing economies: Asia and Oceania",2019,6312154
+"Developing economies: Asia and Oceania",2020,6019396
+"Developing economies: Asia and Oceania",2021,7843244
+"Developing economies: Asia and Oceania",2022,8716196
+"Developing economies: Asia and Oceania",2023,8133434
+"Developing economies: Asia and Oceania",2024,8514957
+"Developed economies",2005,6630138
+"Developed economies",2006,7523795
+"Developed economies",2007,8655938
+"Developed economies",2008,9721217
+"Developed economies",2009,7479524
+"Developed economies",2010,8836410
+"Developed economies",2011,10450292
+"Developed economies",2012,10270157
+"Developed economies",2013,10433567
+"Developed economies",2014,10509709
+"Developed economies",2015,9197689
+"Developed economies",2016,9055356
+"Developed economies",2017,9924325
+"Developed economies",2018,10846702
+"Developed economies",2019,10527139
+"Developed economies",2020,9602899
+"Developed economies",2021,11995076
+"Developed economies",2022,13284347
+"Developed economies",2023,12809382
+"Developed economies",2024,12746789
+"Developed economies: Americas",2005,1284385
+"Developed economies: Americas",2006,1440649
+"Developed economies: Americas",2007,1595945
+"Developed economies: Americas",2008,1766607
+"Developed economies: Americas",2009,1393231
+"Developed economies: Americas",2010,1683650
+"Developed economies: Americas",2011,1962009
+"Developed economies: Americas",2012,2026111
+"Developed economies: Americas",2013,2060729
+"Developed economies: Americas",2014,2116485
+"Developed economies: Americas",2015,1922765
+"Developed economies: Americas",2016,1852059
+"Developed economies: Americas",2017,1981723
+"Developed economies: Americas",2018,2129878
+"Developed economies: Americas",2019,2104799
+"Developed economies: Americas",2020,1824240
+"Developed economies: Americas",2021,2276089
+"Developed economies: Americas",2022,2698501
+"Developed economies: Americas",2023,2618978
+"Developed economies: Americas",2024,2649229
+"Developed economies: Asia and Oceania",2005,1028444
+"Developed economies: Asia and Oceania",2006,1140508
+"Developed economies: Asia and Oceania",2007,1284428
+"Developed economies: Asia and Oceania",2008,1463483
+"Developed economies: Asia and Oceania",2009,1138793
+"Developed economies: Asia and Oceania",2010,1501493
+"Developed economies: Asia and Oceania",2011,1753308
+"Developed economies: Asia and Oceania",2012,1739872
+"Developed economies: Asia and Oceania",2013,1673316
+"Developed economies: Asia and Oceania",2014,1661973
+"Developed economies: Asia and Oceania",2015,1447710
+"Developed economies: Asia and Oceania",2016,1431794
+"Developed economies: Asia and Oceania",2017,1599620
+"Developed economies: Asia and Oceania",2018,1724051
+"Developed economies: Asia and Oceania",2019,1626209
+"Developed economies: Asia and Oceania",2020,1498331
+"Developed economies: Asia and Oceania",2021,1862590
+"Developed economies: Asia and Oceania",2022,1989125
+"Developed economies: Asia and Oceania",2023,1849771
+"Developed economies: Asia and Oceania",2024,1847637
+"Developed economies: Europe",2005,4317310
+"Developed economies: Europe",2006,4942638
+"Developed economies: Europe",2007,5775565
+"Developed economies: Europe",2008,6491126
+"Developed economies: Europe",2009,4947500
+"Developed economies: Europe",2010,5651268
+"Developed economies: Europe",2011,6734974
+"Developed economies: Europe",2012,6504174
+"Developed economies: Europe",2013,6699521
+"Developed economies: Europe",2014,6731251
+"Developed economies: Europe",2015,5827214
+"Developed economies: Europe",2016,5771503
+"Developed economies: Europe",2017,6342982
+"Developed economies: Europe",2018,6992772
+"Developed economies: Europe",2019,6796131
+"Developed economies: Europe",2020,6280329
+"Developed economies: Europe",2021,7856397
+"Developed economies: Europe",2022,8596721
+"Developed economies: Europe",2023,8340634
+"Developed economies: Europe",2024,8249923
+"Developing economies excluding China",2005,2806934
+"Developing economies excluding China",2006,3308156
+"Developing economies excluding China",2007,3801747
+"Developing economies excluding China",2008,4556431
+"Developing economies excluding China",2009,3532425
+"Developing economies excluding China",2010,4479008
+"Developing economies excluding China",2011,5570713
+"Developing economies excluding China",2012,5826142
+"Developing economies excluding China",2013,5873956
+"Developing economies excluding China",2014,5716362
+"Developing economies excluding China",2015,4720956
+"Developing economies excluding China",2016,4519004
+"Developing economies excluding China",2017,5121007
+"Developing economies excluding China",2018,5648372
+"Developing economies excluding China",2019,5444632
+"Developing economies excluding China",2020,4828785
+"Developing economies excluding China",2021,6377893
+"Developing economies excluding China",2022,7448054
+"Developing economies excluding China",2023,6950581
+"Developing economies excluding China",2024,7178782
+"Developing economies excluding LDCs",2005,3419512
+"Developing economies excluding LDCs",2006,4101198
+"Developing economies excluding LDCs",2007,4804208
+"Developing economies excluding LDCs",2008,5736850
+"Developing economies excluding LDCs",2009,4535142
+"Developing economies excluding LDCs",2010,5806275
+"Developing economies excluding LDCs",2011,7195456
+"Developing economies excluding LDCs",2012,7611913
+"Developing economies excluding LDCs",2013,7821719
+"Developing economies excluding LDCs",2014,7761830
+"Developing economies excluding LDCs",2015,6709089
+"Developing economies excluding LDCs",2016,6358232
+"Developing economies excluding LDCs",2017,7165073
+"Developing economies excluding LDCs",2018,7869748
+"Developing economies excluding LDCs",2019,7641068
+"Developing economies excluding LDCs",2020,7167418
+"Developing economies excluding LDCs",2021,9364850
+"Developing economies excluding LDCs",2022,10521817
+"Developing economies excluding LDCs",2023,9871256
+"Developing economies excluding LDCs",2024,10310791
+"LDCs (Least developed countries)",2005,76239
+"LDCs (Least developed countries)",2006,95396
+"LDCs (Least developed countries)",2007,119700
+"LDCs (Least developed countries)",2008,153537
+"LDCs (Least developed countries)",2009,115855
+"LDCs (Least developed countries)",2010,150285
+"LDCs (Least developed countries)",2011,182400
+"LDCs (Least developed countries)",2012,187119
+"LDCs (Least developed countries)",2013,200282
+"LDCs (Least developed countries)",2014,197758
+"LDCs (Least developed countries)",2015,154040
+"LDCs (Least developed countries)",2016,149794
+"LDCs (Least developed countries)",2017,171593
+"LDCs (Least developed countries)",2018,195464
+"LDCs (Least developed countries)",2019,189595
+"LDCs (Least developed countries)",2020,170730
+"LDCs (Least developed countries)",2021,228161
+"LDCs (Least developed countries)",2022,272292
+"LDCs (Least developed countries)",2023,257720
+"LDCs (Least developed countries)",2024,276326
+"LDCs: Africa",2005,50735
+"LDCs: Africa",2006,64977
+"LDCs: Africa",2007,87574
+"LDCs: Africa",2008,116571
+"LDCs: Africa",2009,82955
+"LDCs: Africa",2010,108443
+"LDCs: Africa",2011,131697
+"LDCs: Africa",2012,135832
+"LDCs: Africa",2013,142417
+"LDCs: Africa",2014,135675
+"LDCs: Africa",2015,95197
+"LDCs: Africa",2016,88700
+"LDCs: Africa",2017,106979
+"LDCs: Africa",2018,123050
+"LDCs: Africa",2019,114399
+"LDCs: Africa",2020,101683
+"LDCs: Africa",2021,142861
+"LDCs: Africa",2022,172699
+"LDCs: Africa",2023,160417
+"LDCs: Africa",2024,179060
+"LDCs: Asia",2005,24912
+"LDCs: Asia",2006,29784
+"LDCs: Asia",2007,31405
+"LDCs: Asia",2008,36235
+"LDCs: Asia",2009,32145
+"LDCs: Asia",2010,40991
+"LDCs: Asia",2011,49508
+"LDCs: Asia",2012,50041
+"LDCs: Asia",2013,56543
+"LDCs: Asia",2014,60643
+"LDCs: Asia",2015,57357
+"LDCs: Asia",2016,59594
+"LDCs: Asia",2017,63099
+"LDCs: Asia",2018,70742
+"LDCs: Asia",2019,72803
+"LDCs: Asia",2020,66193
+"LDCs: Asia",2021,80959
+"LDCs: Asia",2022,96166
+"LDCs: Asia",2023,95343
+"LDCs: Asia",2024,95944
+"LDCs: Islands and Haiti",2005,592
+"LDCs: Islands and Haiti",2006,635
+"LDCs: Islands and Haiti",2007,721
+"LDCs: Islands and Haiti",2008,731
+"LDCs: Islands and Haiti",2009,756
+"LDCs: Islands and Haiti",2010,850
+"LDCs: Islands and Haiti",2011,1195
+"LDCs: Islands and Haiti",2012,1246
+"LDCs: Islands and Haiti",2013,1322
+"LDCs: Islands and Haiti",2014,1441
+"LDCs: Islands and Haiti",2015,1486
+"LDCs: Islands and Haiti",2016,1500
+"LDCs: Islands and Haiti",2017,1515
+"LDCs: Islands and Haiti",2018,1672
+"LDCs: Islands and Haiti",2019,2393
+"LDCs: Islands and Haiti",2020,2854
+"LDCs: Islands and Haiti",2021,4341
+"LDCs: Islands and Haiti",2022,3427
+"LDCs: Islands and Haiti",2023,1959
+"LDCs: Islands and Haiti",2024,1322
+"LLDCs (Landlocked developing countries)",2005,79034
+"LLDCs (Landlocked developing countries)",2006,103276
+"LLDCs (Landlocked developing countries)",2007,133318
+"LLDCs (Landlocked developing countries)",2008,168628
+"LLDCs (Landlocked developing countries)",2009,123812
+"LLDCs (Landlocked developing countries)",2010,159085
+"LLDCs (Landlocked developing countries)",2011,215756
+"LLDCs (Landlocked developing countries)",2012,219016
+"LLDCs (Landlocked developing countries)",2013,226824
+"LLDCs (Landlocked developing countries)",2014,212165
+"LLDCs (Landlocked developing countries)",2015,149459
+"LLDCs (Landlocked developing countries)",2016,138209
+"LLDCs (Landlocked developing countries)",2017,163503
+"LLDCs (Landlocked developing countries)",2018,191574
+"LLDCs (Landlocked developing countries)",2019,189787
+"LLDCs (Landlocked developing countries)",2020,154570
+"LLDCs (Landlocked developing countries)",2021,218621
+"LLDCs (Landlocked developing countries)",2022,279840
+"LLDCs (Landlocked developing countries)",2023,265861
+"LLDCs (Landlocked developing countries)",2024,273553
+"SIDS (Small island developing States) (UN-OHRLLS)",2005,280929
+"SIDS (Small island developing States) (UN-OHRLLS)",2006,327283
+"SIDS (Small island developing States) (UN-OHRLLS)",2007,360915
+"SIDS (Small island developing States) (UN-OHRLLS)",2008,411067
+"SIDS (Small island developing States) (UN-OHRLLS)",2009,326035
+"SIDS (Small island developing States) (UN-OHRLLS)",2010,417658
+"SIDS (Small island developing States) (UN-OHRLLS)",2011,510015
+"SIDS (Small island developing States) (UN-OHRLLS)",2012,508098
+"SIDS (Small island developing States) (UN-OHRLLS)",2013,513257
+"SIDS (Small island developing States) (UN-OHRLLS)",2014,505884
+"SIDS (Small island developing States) (UN-OHRLLS)",2015,442810
+"SIDS (Small island developing States) (UN-OHRLLS)",2016,413139
+"SIDS (Small island developing States) (UN-OHRLLS)",2017,460975
+"SIDS (Small island developing States) (UN-OHRLLS)",2018,508850
+"SIDS (Small island developing States) (UN-OHRLLS)",2019,488940
+"SIDS (Small island developing States) (UN-OHRLLS)",2020,459175
+"SIDS (Small island developing States) (UN-OHRLLS)",2021,568799
+"SIDS (Small island developing States) (UN-OHRLLS)",2022,684365
+"SIDS (Small island developing States) (UN-OHRLLS)",2023,627208
+"SIDS (Small island developing States) (UN-OHRLLS)",2024,660140
+"SIDS: Atlantic and Indian Ocean",2005,2887
+"SIDS: Atlantic and Indian Ocean",2006,3180
+"SIDS: Atlantic and Indian Ocean",2007,3088
+"SIDS: Atlantic and Indian Ocean",2008,3425
+"SIDS: Atlantic and Indian Ocean",2009,2798
+"SIDS: Atlantic and Indian Ocean",2010,3157
+"SIDS: Atlantic and Indian Ocean",2011,3872
+"SIDS: Atlantic and Indian Ocean",2012,3879
+"SIDS: Atlantic and Indian Ocean",2013,4221
+"SIDS: Atlantic and Indian Ocean",2014,4429
+"SIDS: Atlantic and Indian Ocean",2015,3812
+"SIDS: Atlantic and Indian Ocean",2016,3587
+"SIDS: Atlantic and Indian Ocean",2017,3808
+"SIDS: Atlantic and Indian Ocean",2018,3967
+"SIDS: Atlantic and Indian Ocean",2019,3653
+"SIDS: Atlantic and Indian Ocean",2020,2909
+"SIDS: Atlantic and Indian Ocean",2021,3307
+"SIDS: Atlantic and Indian Ocean",2022,3975
+"SIDS: Atlantic and Indian Ocean",2023,3824
+"SIDS: Atlantic and Indian Ocean",2024,4042
+"SIDS: Caribbean",2005,29233
+"SIDS: Caribbean",2006,35860
+"SIDS: Caribbean",2007,37492
+"SIDS: Caribbean",2008,44232
+"SIDS: Caribbean",2009,26675
+"SIDS: Caribbean",2010,31088
+"SIDS: Caribbean",2011,46586
+"SIDS: Caribbean",2012,42959
+"SIDS: Caribbean",2013,41499
+"SIDS: Caribbean",2014,37900
+"SIDS: Caribbean",2015,30960
+"SIDS: Caribbean",2016,26149
+"SIDS: Caribbean",2017,28507
+"SIDS: Caribbean",2018,31608
+"SIDS: Caribbean",2019,29471
+"SIDS: Caribbean",2020,24616
+"SIDS: Caribbean",2021,34966
+"SIDS: Caribbean",2022,51362
+"SIDS: Caribbean",2023,46054
+"SIDS: Caribbean",2024,56011
+"SIDS: Pacific",2005,248808
+"SIDS: Pacific",2006,288243
+"SIDS: Pacific",2007,320336
+"SIDS: Pacific",2008,363410
+"SIDS: Pacific",2009,296562
+"SIDS: Pacific",2010,383414
+"SIDS: Pacific",2011,459557
+"SIDS: Pacific",2012,461259
+"SIDS: Pacific",2013,467537
+"SIDS: Pacific",2014,463555
+"SIDS: Pacific",2015,408038
+"SIDS: Pacific",2016,383403
+"SIDS: Pacific",2017,428661
+"SIDS: Pacific",2018,473275
+"SIDS: Pacific",2019,455816
+"SIDS: Pacific",2020,431650
+"SIDS: Pacific",2021,530526
+"SIDS: Pacific",2022,629028
+"SIDS: Pacific",2023,577330
+"SIDS: Pacific",2024,600088
+"BRICS",2005,1486743
+"BRICS",2006,1855981
+"BRICS",2007,2274704
+"BRICS",2008,2788979
+"BRICS",2009,2225728
+"BRICS",2010,2898381
+"BRICS",2011,3665674
+"BRICS",2012,3815712
+"BRICS",2013,4003538
+"BRICS",2014,4022160
+"BRICS",2015,3561208
+"BRICS",2016,3344597
+"BRICS",2017,3783912
+"BRICS",2018,4152392
+"BRICS",2019,4026825
+"BRICS",2020,3935297
+"BRICS",2021,5194378
+"BRICS",2022,5690671
+"BRICS",2023,5320309
+"BRICS",2024,5502360
+"European Union (2020 …)",2005,3373061
+"European Union (2020 …)",2006,3824514
+"European Union (2020 …)",2007,4549783
+"European Union (2020 …)",2008,5019700
+"European Union (2020 …)",2009,3882241
+"European Union (2020 …)",2010,4341976
+"European Union (2020 …)",2011,5090532
+"European Union (2020 …)",2012,4871195
+"European Union (2020 …)",2013,5050867
+"European Union (2020 …)",2014,5161449
+"European Union (2020 …)",2015,4553456
+"European Union (2020 …)",2016,4584840
+"European Union (2020 …)",2017,5018388
+"European Union (2020 …)",2018,5495430
+"European Union (2020 …)",2019,5344056
+"European Union (2020 …)",2020,4997031
+"European Union (2020 …)",2021,6154046
+"European Union (2020 …)",2022,6586409
+"European Union (2020 …)",2023,6630766
+"European Union (2020 …)",2024,6576068
+"G20 (Group of Twenty)",2005,6118423
+"G20 (Group of Twenty)",2006,7079033
+"G20 (Group of Twenty)",2007,8131637
+"G20 (Group of Twenty)",2008,9270296
+"G20 (Group of Twenty)",2009,7191650
+"G20 (Group of Twenty)",2010,8866832
+"G20 (Group of Twenty)",2011,10645872
+"G20 (Group of Twenty)",2012,10784883
+"G20 (Group of Twenty)",2013,10991503
+"G20 (Group of Twenty)",2014,11127566
+"G20 (Group of Twenty)",2015,9808547
+"G20 (Group of Twenty)",2016,9436234
+"G20 (Group of Twenty)",2017,10424441
+"G20 (Group of Twenty)",2018,11408194
+"G20 (Group of Twenty)",2019,11092980
+"G20 (Group of Twenty)",2020,10188300
+"G20 (Group of Twenty)",2021,12931181
+"G20 (Group of Twenty)",2022,14318830
+"G20 (Group of Twenty)",2023,13635378
+"G20 (Group of Twenty)",2024,13880252
+"G-77 (Group of 77)",2005,2675786
+"G-77 (Group of 77)",2006,3255775
+"G-77 (Group of 77)",2007,3874099
+"G-77 (Group of 77)",2008,4745121
+"G-77 (Group of 77)",2009,3715552
+"G-77 (Group of 77)",2010,4780406
+"G-77 (Group of 77)",2011,6010329
+"G-77 (Group of 77)",2012,6298564
+"G-77 (Group of 77)",2013,6474357
+"G-77 (Group of 77)",2014,6401016
+"G-77 (Group of 77)",2015,5426915
+"G-77 (Group of 77)",2016,5117752
+"G-77 (Group of 77)",2017,5806944
+"G-77 (Group of 77)",2018,6440714
+"G-77 (Group of 77)",2019,6226773
+"G-77 (Group of 77)",2020,5842317
+"G-77 (Group of 77)",2021,7695594
+"G-77 (Group of 77)",2022,8795411
+"G-77 (Group of 77)",2023,8205161
+"G-77 (Group of 77)",2024,8526495
+"OECD (Organisation for Economic Cooperation and Development)",2005,6655785
+"OECD (Organisation for Economic Cooperation and Development)",2006,7544886
+"OECD (Organisation for Economic Cooperation and Development)",2007,8651985
+"OECD (Organisation for Economic Cooperation and Development)",2008,9602744
+"OECD (Organisation for Economic Cooperation and Development)",2009,7480408
+"OECD (Organisation for Economic Cooperation and Development)",2010,8813761
+"OECD (Organisation for Economic Cooperation and Development)",2011,10346634
+"OECD (Organisation for Economic Cooperation and Development)",2012,10197665
+"OECD (Organisation for Economic Cooperation and Development)",2013,10378092
+"OECD (Organisation for Economic Cooperation and Development)",2014,10502798
+"OECD (Organisation for Economic Cooperation and Development)",2015,9320219
+"OECD (Organisation for Economic Cooperation and Development)",2016,9221467
+"OECD (Organisation for Economic Cooperation and Development)",2017,10055362
+"OECD (Organisation for Economic Cooperation and Development)",2018,10922121
+"OECD (Organisation for Economic Cooperation and Development)",2019,10632935
+"OECD (Organisation for Economic Cooperation and Development)",2020,9747910
+"OECD (Organisation for Economic Cooperation and Development)",2021,12076310
+"OECD (Organisation for Economic Cooperation and Development)",2022,13396647
+"OECD (Organisation for Economic Cooperation and Development)",2023,13095277
+"OECD (Organisation for Economic Cooperation and Development)",2024,13088465
